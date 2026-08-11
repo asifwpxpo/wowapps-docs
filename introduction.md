@@ -16,11 +16,11 @@ The **WowOptions** guide shows you how to add infinite custom product options an
 
 Let's dive in!
 
-### [📦 WowETA User Guide](woweta/introduction.mdx)
+### [📦 WowETA User Guide](woweta/introduction\.md)
 Get started with WowETA in 5 minutes. Configure delivery dates and rules to lift your sales today.
 ![WowETA](/docs/woweta-app-store.png)
 
-### [⚙️ WowOptions User Guide](wowoptions/introduction.mdx)
+### [⚙️ WowOptions User Guide](wowoptions/introduction\.md)
 Learn how to create custom options, conditional logic, and add-on pricing without any coding.
 ![WowOptions](/wow-options/docs/settings/wowoptions-settings-panel-in-wowoptions.webp)
 
@@ -30,8 +30,8 @@ Learn how to create custom options, conditional logic, and add-on pricing withou
 
 A simple changelog of the latest additions. We keep it short and only show what's new – so you never miss an update.
 
-### [Advanced ETA Rules](woweta/eta-rules.mdx)
+### [Advanced ETA Rules](woweta/eta-rules\.md)
 Configure specific delivery date estimates for specific countries, with or without dedicated ETA timings.
 
-### [Smart Conditional Logic](wowoptions/conditional-logic.mdx)
+### [Smart Conditional Logic](wowoptions/conditional-logic\.md)
 Build smart product page variations using conditional logic that shows or hides options automatically.
