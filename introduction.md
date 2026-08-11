@@ -5,7 +5,7 @@ description: "Everything you need to build, launch, and grow your Shopify store 
 
 Welcome to the WowApps Help Center. Whether you're setting up your first Estimated Delivery Date, looking for ways to sell more with custom product options, or just need a quick answer — you're in the right place. Browse by app or ask us anytime.
 
-<img src="/docs/woweta-translation-frontend.png" alt="Welcome Banner" />
+![Welcome Banner](/docs/woweta-translation-frontend.png)
 
 ## Two Powerful Apps, One Goal
 
@@ -18,11 +18,11 @@ Let's dive in!
 
 ### [📦 WowETA User Guide](woweta/introduction.mdx)
 Get started with WowETA in 5 minutes. Configure delivery dates and rules to lift your sales today.
-<img src="/docs/woweta-app-store.png" alt="WowETA" width="400" />
+![WowETA](/docs/woweta-app-store.png)
 
 ### [⚙️ WowOptions User Guide](wowoptions/introduction.mdx)
 Learn how to create custom options, conditional logic, and add-on pricing without any coding.
-<img src="/wow-options/docs/settings/wowoptions-settings-panel-in-wowoptions.webp" alt="WowOptions" width="400" />
+![WowOptions](/wow-options/docs/settings/wowoptions-settings-panel-in-wowoptions.webp)
 
 ---
 
