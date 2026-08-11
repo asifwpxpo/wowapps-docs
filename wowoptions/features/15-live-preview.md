@@ -1,6 +1,6 @@
 # Live Preview
 
-Live Preview in WowOptions helps Shopify merchants show customers a real-time preview of their product customization. Instead of asking shoppers to imagine how the final product may look, merchants can let them see selected text, colors, images, uploads or design choices updated visually while they customize. 
+Live Preview in WowOptions helps Shopify merchants show customers a real-time preview of their product customization. Instead of asking shoppers to imagine how the final product may look, merchants can let them see selected text, colors, images, uploads or design choices updated visually while they customize.
 
 This feature is useful for personalized and visual products where customers need confidence before placing an order. WowOptions is positioned as a no-code product customizer for Shopify stores, supporting custom fields, text fields, image and color swatches, file uploads, price add-ons, conditional logic, product personalization and live preview.
 
