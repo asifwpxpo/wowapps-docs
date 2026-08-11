@@ -26,7 +26,7 @@ This feature is especially useful for electronics, gift boxes, beauty products, 
 
 Suppose Max has an online gift store. He sells chocolates, gift items, roses, cards etc. with this main gift items he also wants to sell relevant addons or products like greeting cards, gift box, ribbons etc. etc. Like below:
 
-![](images/image56.png)
+![Addon Products — How to setup with real use case](images/14-addon-products-example.png)
 
 He can easily do it using different option types, in this case let’s think he is using the checkbox option type to showcase it. You can do it too.
 
@@ -36,7 +36,7 @@ At first, you need to add the checkbox option type to your option set.
 Then you need to add the product’s name and the price for each product.
 If you want you can add the image too. Like below:
 
-![](images/image57.png)
+![Addon Products — Step 1](images/14-addon-products-step-1.png)
 
 ### Step 2
 
@@ -47,7 +47,7 @@ After setting up the add-on products, do not forget to add this feature or optio
 
 - Save it.
 
-![](images/image58.png)
+![Addon Products — Step 2](images/14-addon-products-step-2.png)
 
 ## Supported Option Types
 

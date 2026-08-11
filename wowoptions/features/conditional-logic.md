@@ -58,7 +58,7 @@ Before publishing, preview the option set to make sure the field appears or hide
 
 ## How to setup with real use case
 
-![](images/image14.png)
+![Conditional Logic — How to setup with real use case](images/04-conditional-logic-example.png)
 
 ## Need Help with Setup?
 

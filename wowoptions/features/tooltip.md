@@ -67,7 +67,7 @@ Scroll down to the bottom of the option settings. Here, you will find the Help T
 Then, select Tooltip from the Help Text Position dropdown.
 
 Like the screenshot below
-![](images/image33.png)
+![Tooltip — Step 1](images/09-tooltip-step-1.png)
 
 ### Step 2
 
@@ -77,7 +77,7 @@ After assigning the product, click Save to save the changes.
 
 See the attached screenshot below.
 
-![](images/image34.png)
+![Tooltip — Step 2](images/09-tooltip-step-2.png)
 
 ### Step 3
 
@@ -85,7 +85,7 @@ Go back to the Product Options page and click Save to save the entire option set
 
 See the attached screenshot below.
 
-![](images/image35.png)
+![Tooltip — Step 3](images/09-tooltip-step-3.png)
 
 ### Step 4
 
@@ -95,7 +95,7 @@ You will see an information icon next to the option label. When customers hover 
 
 See the attached screenshot below.
 
-![](images/image36.png)
+![Tooltip — Step 4](images/09-tooltip-step-4.png)
 
 ## Need Help with Setup?
 
