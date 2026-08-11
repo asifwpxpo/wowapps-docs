@@ -38,3 +38,21 @@
 
 ## Performance
 * [Analytics](analytics.md)
+
+
+## Features
+* [Quantity Selector](features/01-quantity-selector.md)
+* [Add Option Value Description](features/02-add-option-value-description.md)
+* [View Details Link](features/03-view-details-link.md)
+* [Conditional Logic Guide](features/04-conditional-logic.md)
+* [Switch](features/05-switch.md)
+* [Cross Product Links](features/06-cross-product-links.md)
+* [Image Swatch Slider](features/07-image-swatch-slider.md)
+* [Color Swatch Slider](features/08-color-swatch-slider.md)
+* [Tooltip](features/09-tooltip.md)
+* [Pop Up](features/10-pop-up.md)
+* [Collapse](features/11-collapse.md)
+* [Character Based Pricing](features/12-character-based-pricing.md)
+* [Add-on Price](features/13-add-on-price.md)
+* [Addon Products](features/14-addon-products.md)
+* [Live Preview](features/15-live-preview.md)
