@@ -1,5 +1,9 @@
 # Table of contents
 
+* [Welcome](README.md)
+
+## Features
+
 * [Quantity Selector](quantity-selector.md)
 * [Add Option Value Description](add-option-value-description.md)
 * [View Details Link](view-details-link.md)

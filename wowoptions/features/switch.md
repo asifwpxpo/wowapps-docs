@@ -48,13 +48,13 @@ WowOptions supports price types such as Fixed, Percentage, and No Cost for the S
 
 Suppose, Max has all the options for his product but now he wants to add an optional product that his customer can add echo packaging or they can also skip it if they want. They will be charged extra if they add it to their cart for each piece. Like below:
 
-![Switch — How to setup with real use case](images/switch-example.png)
+![Switch - How to setup with real use case](images/switch-example.png)
 
 ### Step 1
 
 First, add the option type Switch to your options set. Click on the option type ”Switch”.
 
-![Switch — Step 1](images/switch-step-1.png)
+![Switch - Step 1](images/switch-step-1.png)
 
 ### Step 2
 
@@ -65,13 +65,13 @@ Now,
 - Just below the price section you will see a Quantity limit option where you can set how many of them they can add for this extra one.
 
 -
-  ![Switch — Step 2](images/switch-step-2.png)
+  ![Switch - Step 2](images/switch-step-2.png)
 
 ### Step 3
 
 After setting up the full SWITCH options, don’t forget to add it to your products and save it. Like below:
 
-![Switch — Step 3](images/switch-step-3.png)
+![Switch - Step 3](images/switch-step-3.png)
 
 ## Need Help with Setup?
 

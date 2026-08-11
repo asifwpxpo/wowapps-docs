@@ -69,14 +69,14 @@ Max has already created an option set for his custom poster product.
 To add an extra charge, click on the option where you want to apply the additional price. Then, enter the amount in the **Add Price** field.
 
 Like the screenshot below:
-![Add-on Price — Step 1](images/add-on-price-step-1.png)
+![Add-on Price - Step 1](images/add-on-price-step-1.png)
 
 ### Step 2
 
 Click the Save button to save the option.
 
 See the attached screenshot below.
-![Add-on Price — Step 2](images/add-on-price-step-2.png)
+![Add-on Price - Step 2](images/add-on-price-step-2.png)
 
 ### Step 3
 
@@ -85,7 +85,7 @@ Now, open the product page on your storefront then you can select the option wit
 You will see that the additional price is automatically added to the product price. For example, selecting the 16" × 20" poster size adds an extra $20.00 to the product price, as shown in the screenshot below.
 See the attached screenshot below.
 
-![Add-on Price — Step 3](images/add-on-price-step-3.png)
+![Add-on Price - Step 3](images/add-on-price-step-3.png)
 
 ## Need Help with Setup?
 

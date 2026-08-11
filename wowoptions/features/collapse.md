@@ -47,9 +47,9 @@ First, create a new option. This option will act as the parent group for your ot
 Enter the Group Name and Help Text according to your requirements.
 
 Like the screenshot below.
-![Collapse — Step 1](images/collapse-step-1.png)
+![Collapse - Step 1](images/collapse-step-1.png)
 
-![Collapse — Step 1 (2)](images/collapse-step-1-2.png)
+![Collapse - Step 1 (2)](images/collapse-step-1-2.png)
 
 ### Step 2
 
@@ -59,7 +59,7 @@ Once you have selected Accordion, click Save to save the group.
 
 See the attached screenshot below.
 
-![Collapse — Step 2](images/collapse-step-2.png)
+![Collapse - Step 2](images/collapse-step-2.png)
 
 ### Step 3
 
@@ -69,7 +69,7 @@ You can drag and drop existing options under the accordion to organize them into
 
 See the attached screenshot below.
 
-![Collapse — Step 3](images/collapse-step-3.png)
+![Collapse - Step 3](images/collapse-step-3.png)
 
 ### Step 4
 
@@ -79,7 +79,7 @@ Then, click Save to apply the changes to your store.
 
 See the attached screenshot below.
 
-![Collapse — Step 4](images/collapse-step-4.png)
+![Collapse - Step 4](images/collapse-step-4.png)
 
 ### Step 5
 
@@ -87,7 +87,7 @@ After completing the setup, go back to the Product Options page and click Save t
 
 See the attached screenshot below.
 
-![Collapse — Step 5](images/collapse-step-5.png)
+![Collapse - Step 5](images/collapse-step-5.png)
 
 ### Step 6
 
@@ -97,7 +97,7 @@ You will see the options displayed inside an accordion. Customers can expand or 
 
 See the attached screenshot below.
 
-![Collapse — Step 6](images/collapse-step-6.png)
+![Collapse - Step 6](images/collapse-step-6.png)
 
 ## Need Help with Setup?
 
