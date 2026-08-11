@@ -44,7 +44,7 @@ Imagine, Max is running a Pizza shop online and his customers love to choose the
 For example, one of Max's customers wants to order a Pizza. The very first thing he needs to choose is the Pizza types. Now, you have shown the pizza type in a drop down but your customer wants to know a bit more details about the pizza type or about its ingredients. To showcase that without changing the structure of the product page Max can use the value description option to each pizza type.
 
 Like Below:
-![Add Option Value Description — How to setup with real use case](images/02-add-option-value-description-example.png)
+![Add Option Value Description — How to setup with real use case](images/add-option-value-description-example.png)
 
 Here with the help of WowOption’s Option Value Description Max’s customer can easily see the details of each pizza type and decide what to select. It’s super easy to understand and order. Let’s see how Max can set it up on his store using WowOptions.
 
@@ -54,23 +54,23 @@ Here with the help of WowOption’s Option Value Description Max’s customer ca
 - For showcasing pizza types you can add and select the dropdown options.
 - Add the types of the pizza: add all the flavours name.
 
-![Add Option Value Description — Step 1](images/02-add-option-value-description-step-1.png)
+![Add Option Value Description — Step 1](images/add-option-value-description-step-1.png)
 
 ### Step 2
 
 Below the option field,  you will see 3 buttons and one of them is **Add Option Descriptions**. Click on that.
 
-![Add Option Value Description — Step 2](images/02-add-option-value-description-step-2.png)
+![Add Option Value Description — Step 2](images/add-option-value-description-step-2.png)
 
 Then you will see a window of adding the option descriptions, at first click on the enable option description feature & add your option details to each value. And after adding all the descriptions click on the apply button.
 
 ### Step 3
 
-![Add Option Value Description — Step 3](images/02-add-option-value-description-step-3.png)
+![Add Option Value Description — Step 3](images/add-option-value-description-step-3.png)
 
 At last, do not forget to add this option set to your products and save it to check the final result.
 
-![Add Option Value Description — Step 3 (2)](images/02-add-option-value-description-step-3-2.png)
+![Add Option Value Description — Step 3 (2)](images/add-option-value-description-step-3-2.png)
 
 ## Need Help with Setup?
 

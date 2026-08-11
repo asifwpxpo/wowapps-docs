@@ -47,7 +47,7 @@ For example, one of Max's customers wants to order a Dozen Cup Cake Box from his
 
  Like below:
 
-![Quantity Selector — How to setup with real use case](images/01-quantity-selector-example.png)
+![Quantity Selector — How to setup with real use case](images/quantity-selector-example.png)
 
 Here with the help of WowOption’s quantity selector Max’s customer can easily choose the numbers of the flavours that he wants. It’s super easy to understand and order. Let’s see how Max can set it up on his store using WowOptions.
 
@@ -56,7 +56,7 @@ Here with the help of WowOption’s quantity selector Max’s customer can easil
 - At first you need to create a new option set from the option types that supports the feature - QUANTITY SELECTOR. For here in this case, we are using image swatches to showcase flavours of the cup cakes and the feature.
 - Add all the flavour names and images that you have and want to show to your customer.
 
-![Quantity Selector — Step 1](images/01-quantity-selector-step-1.png)
+![Quantity Selector — Step 1](images/quantity-selector-step-1.png)
 
 ### Step 2
 
@@ -70,13 +70,13 @@ Now, scroll a bit down and you will see the main options of selecting the quanti
 
 Like the screenshot below:
 
-![Quantity Selector — Step 2](images/01-quantity-selector-step-2.png)
+![Quantity Selector — Step 2](images/quantity-selector-step-2.png)
 
 ### Step 3
 
 At last do not forget to add the option set to your products and save it to see it on your store front successfully.
 
-![Quantity Selector — Step 3](images/01-quantity-selector-step-3.png)
+![Quantity Selector — Step 3](images/quantity-selector-step-3.png)
 
 This is how you can successfully add the quantity selector options to your product and help your customer to add their own chosen options that they want to like & You can charge them as per quantity. This is how it works.
 

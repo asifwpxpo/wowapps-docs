@@ -49,7 +49,7 @@ To enable Character Based Pricing, open the **“Text Field”** option and clic
 
 Like the screenshot below.
 
-![Character Based Pricing — Step 1](images/12-character-based-pricing-step-1.png)
+![Character Based Pricing — Step 1](images/character-based-pricing-step-1.png)
 
 ### Step 2
 
@@ -61,7 +61,7 @@ Once you have finished the configuration, assign the option set to your product 
 
 See the attached screenshot below.
 
-![Character Based Pricing — Step 2](images/12-character-based-pricing-step-2.png)
+![Character Based Pricing — Step 2](images/character-based-pricing-step-2.png)
 
 ### Step 3
 
@@ -74,7 +74,7 @@ For example, Max sets the price to $2.00 per character and enables a minimum cha
 The customer will not be able to enter more than 10 characters, ensuring the pricing rule and character limit are applied correctly.
 
 See the attached screenshot below.
-![Character Based Pricing — Step 3](images/12-character-based-pricing-step-3.png)
+![Character Based Pricing — Step 3](images/character-based-pricing-step-3.png)
 
 ## Need Help with Setup?
 

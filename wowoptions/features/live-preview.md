@@ -56,14 +56,14 @@ First, Max needs to assign the option set to the product where he wants to displ
 
 Like the screenshot below:
 
-![Live Preview — Step 1](images/15-live-preview-step-1.png)
+![Live Preview — Step 1](images/live-preview-step-1.png)
 
 ### Step 2
 
 When Max clicks on Applies, he will see three options to choose from. He can assign the option set to **Specific Products**, **Specific Collections**, or **All Products**, depending on where he wants to display the custom option set.
 
 See the attached screenshot below.
-![Live Preview — Step 2](images/15-live-preview-step-2.png)
+![Live Preview — Step 2](images/live-preview-step-2.png)
 
 ### Step 3
 
@@ -73,7 +73,7 @@ Then, go back to the Product Options page and click **Save** to apply the option
 
 See the attached screenshot below.
 
-![Live Preview — Step 3](images/15-live-preview-step-3.png)
+![Live Preview — Step 3](images/live-preview-step-3.png)
 
 ### Step 4
 
@@ -83,7 +83,7 @@ After clicking Live Preview, the preview will open in a new tab.
 
 See the attached screenshot below.
 
-![Live Preview — Step 4](images/15-live-preview-step-4.png)
+![Live Preview — Step 4](images/live-preview-step-4.png)
 
 ## Need Help with Setup?
 

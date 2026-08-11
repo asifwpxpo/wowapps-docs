@@ -24,7 +24,7 @@ This feature is especially useful for apparel, accessories, phone cases, home de
 
 Suppose Max sells bed sheets in his store, but there are numbers of colors available for each bed sheet. He wants to showcase them all but in a minimalist way. Like below:
 
-![Color Swatch Slider — How to setup with real use case](images/08-color-swatch-slider-example.png)
+![Color Swatch Slider — How to setup with real use case](images/color-swatch-slider-example.png)
 
 How you can do it too..
 
@@ -36,28 +36,28 @@ Then add the colors with color names and price to the option if you want.
 
 Then click on the advanced setting button.
 
-![Color Swatch Slider — Step 1](images/08-color-swatch-slider-step-1.png)
+![Color Swatch Slider — Step 1](images/color-swatch-slider-step-1.png)
 
 ### Step 2
 
 - At the advanced settings page you will see an option “Show as Slider”. Enable it.
 - Add the numbers of rows and number of colors that you want to add.
 
-![Color Swatch Slider — Step 2](images/08-color-swatch-slider-step-2.png)
+![Color Swatch Slider — Step 2](images/color-swatch-slider-step-2.png)
 
 ### Step 3
 
 -  After that, select the position or the placement of the “Arrow” for the swatches.
 -   Also, set the arrow alignment from here.Like below:
 
-![Color Swatch Slider — Step 3](images/08-color-swatch-slider-step-3.png)
+![Color Swatch Slider — Step 3](images/color-swatch-slider-step-3.png)
 
 ### Step 4
 
 After setting it in your way do not forget to add it to your product where you want to show it.
 Click on the “Applies to” button, add it to all or any specific product where you want to show it and Save. Like below:
 
-![Color Swatch Slider — Step 4](images/08-color-swatch-slider-step-4.png)
+![Color Swatch Slider — Step 4](images/color-swatch-slider-step-4.png)
 
 ## Need Help with Setup?
 

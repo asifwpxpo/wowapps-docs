@@ -48,7 +48,7 @@ For example:
 
 Suppose Max is running a clothing store and he sells all types of men's clothing like jersey, hoodie, T-Shirt etc. So now, on a specific occasion like, in FIFA Worldcup  he wants to showcase these 3 products in one place and wants to place the direct product links in another product (Suppose the product is Football).Like below:
 
-![Cross Product Links — How to setup with real use case](images/06-cross-product-links-example.png)
+![Cross Product Links — How to setup with real use case](images/cross-product-links-example.png)
 
 How you can do that:
 
@@ -56,7 +56,7 @@ How you can do that:
 
 At first you need to select the option type that supports cross product links feature. For this case, select the option type image swatch. Below the image swatch options you will see 3 buttons and here one of them is linked products.
 
-![Cross Product Links — Step 1](images/06-cross-product-links-step-1.png)
+![Cross Product Links — Step 1](images/cross-product-links-step-1.png)
 
 ### Step 2
 
@@ -64,17 +64,17 @@ Now, Click on the “Linked Products” Button. Then, select the “Enable Linke
 
 It will give you the options to add the product links for each individual product. Add your product links here. And click on the Apply button.
 
-![Cross Product Links — Step 2](images/06-cross-product-links-step-2.png)
+![Cross Product Links — Step 2](images/cross-product-links-step-2.png)
 
 ### Step 3
 
 After setting the product links, you need to set it perfectly to the specific product where you want to show it. To do that, just click on the apply button. Select your product and save it. Like below:
 
-![Cross Product Links — Step 3](images/06-cross-product-links-step-3.png)
+![Cross Product Links — Step 3](images/cross-product-links-step-3.png)
 
 And at last, do not forget to save your entire option set to showcase the feature to your store. Just click on the save button. Like below:
 
-![Cross Product Links — Step 3 (2)](images/06-cross-product-links-step-3-2.png)
+![Cross Product Links — Step 3 (2)](images/cross-product-links-step-3-2.png)
 
 ## Need Help with Setup?
 
