@@ -66,36 +66,36 @@
               "wowoptions/create-option-sets",
               "wowoptions/conditional-logic",
               "wowoptions/global-style",
-              "wowoptions/settings"
-            ]
-          },
-          {
-            "group": "Supported Option Types",
-            "pages": [
-              "wowoptions/option-type",
-              "wowoptions/option-type/button",
-              "wowoptions/option-type/checkbox",
-              "wowoptions/option-type/color-picker",
-              "wowoptions/option-type/color-swatch",
-              "wowoptions/option-type/content",
-              "wowoptions/option-type/date-time",
-              "wowoptions/option-type/divider",
-              "wowoptions/option-type/dropdown",
-              "wowoptions/option-type/email",
-              "wowoptions/option-type/group",
-              "wowoptions/option-type/image-swatch",
-              "wowoptions/option-type/link",
-              "wowoptions/option-type/modal",
-              "wowoptions/option-type/number",
-              "wowoptions/option-type/phone",
-              "wowoptions/option-type/product-swatch",
-              "wowoptions/option-type/radio",
-              "wowoptions/option-type/range-slider",
-              "wowoptions/option-type/spacer",
-              "wowoptions/option-type/switch",
-              "wowoptions/option-type/text-area",
-              "wowoptions/option-type/text-field",
-              "wowoptions/option-type/upload"
+              "wowoptions/settings",
+              {
+                "group": "All Option Types",
+                "pages": [
+                  "wowoptions/option-type",
+                  "wowoptions/option-type/button",
+                  "wowoptions/option-type/checkbox",
+                  "wowoptions/option-type/color-picker",
+                  "wowoptions/option-type/color-swatch",
+                  "wowoptions/option-type/content",
+                  "wowoptions/option-type/date-time",
+                  "wowoptions/option-type/divider",
+                  "wowoptions/option-type/dropdown",
+                  "wowoptions/option-type/email",
+                  "wowoptions/option-type/group",
+                  "wowoptions/option-type/image-swatch",
+                  "wowoptions/option-type/link",
+                  "wowoptions/option-type/modal",
+                  "wowoptions/option-type/number",
+                  "wowoptions/option-type/phone",
+                  "wowoptions/option-type/product-swatch",
+                  "wowoptions/option-type/radio",
+                  "wowoptions/option-type/range-slider",
+                  "wowoptions/option-type/spacer",
+                  "wowoptions/option-type/switch",
+                  "wowoptions/option-type/text-area",
+                  "wowoptions/option-type/text-field",
+                  "wowoptions/option-type/upload"
+                ]
+              }
             ]
           },
           {
