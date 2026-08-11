@@ -116,11 +116,11 @@
   "tabs": [
     {
       "name": "WowETA",
-      "url": "woweta"
+      "url": "woweta/introduction"
     },
     {
       "name": "WowOptions",
-      "url": "wowoptions"
+      "url": "wowoptions/introduction"
     }
   ]
 }
