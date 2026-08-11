@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "introduction"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "WowETA",
         "groups": [
           {
