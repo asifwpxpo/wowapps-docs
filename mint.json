@@ -27,63 +27,100 @@
   },
   "navigation": [
     {
-      "group": "WowETA",
+      "group": "Overview",
       "pages": [
         "woweta/introduction",
         "woweta/getting-started",
-        "woweta/eta-rules",
-        "woweta/delivery-country",
-        "woweta/global-settings",
-        "woweta/translation",
-        "woweta/analytics",
         "woweta/faq"
-      ]
+      ],
+      "tab": "WowETA"
     },
     {
-      "group": "WowOptions",
+      "group": "Configuration",
+      "pages": [
+        "woweta/global-settings",
+        "woweta/eta-rules",
+        "woweta/delivery-country",
+        "woweta/translation"
+      ],
+      "tab": "WowETA"
+    },
+    {
+      "group": "Performance",
+      "pages": [
+        "woweta/analytics"
+      ],
+      "tab": "WowETA"
+    },
+    {
+      "group": "Overview",
       "pages": [
         "wowoptions/introduction",
         "wowoptions/getting-started",
+        "wowoptions/faq"
+      ],
+      "tab": "WowOptions"
+    },
+    {
+      "group": "Core Setup",
+      "pages": [
         "wowoptions/create-option-sets",
         "wowoptions/conditional-logic",
         "wowoptions/global-style",
-        "wowoptions/settings",
-        {
-          "group": "Option Types",
-          "pages": [
-            "wowoptions/option-type",
-            "wowoptions/option-type/button",
-            "wowoptions/option-type/checkbox",
-            "wowoptions/option-type/color-picker",
-            "wowoptions/option-type/color-swatch",
-            "wowoptions/option-type/content",
-            "wowoptions/option-type/date-time",
-            "wowoptions/option-type/divider",
-            "wowoptions/option-type/dropdown",
-            "wowoptions/option-type/email",
-            "wowoptions/option-type/group",
-            "wowoptions/option-type/image-swatch",
-            "wowoptions/option-type/link",
-            "wowoptions/option-type/modal",
-            "wowoptions/option-type/number",
-            "wowoptions/option-type/phone",
-            "wowoptions/option-type/product-swatch",
-            "wowoptions/option-type/radio",
-            "wowoptions/option-type/range-slider",
-            "wowoptions/option-type/spacer",
-            "wowoptions/option-type/switch",
-            "wowoptions/option-type/text-area",
-            "wowoptions/option-type/text-field",
-            "wowoptions/option-type/upload"
-          ]
-        },
-        "wowoptions/analytics",
-        "wowoptions/faq"
-      ]
+        "wowoptions/settings"
+      ],
+      "tab": "WowOptions"
+    },
+    {
+      "group": "Supported Option Types",
+      "pages": [
+        "wowoptions/option-type",
+        "wowoptions/option-type/button",
+        "wowoptions/option-type/checkbox",
+        "wowoptions/option-type/color-picker",
+        "wowoptions/option-type/color-swatch",
+        "wowoptions/option-type/content",
+        "wowoptions/option-type/date-time",
+        "wowoptions/option-type/divider",
+        "wowoptions/option-type/dropdown",
+        "wowoptions/option-type/email",
+        "wowoptions/option-type/group",
+        "wowoptions/option-type/image-swatch",
+        "wowoptions/option-type/link",
+        "wowoptions/option-type/modal",
+        "wowoptions/option-type/number",
+        "wowoptions/option-type/phone",
+        "wowoptions/option-type/product-swatch",
+        "wowoptions/option-type/radio",
+        "wowoptions/option-type/range-slider",
+        "wowoptions/option-type/spacer",
+        "wowoptions/option-type/switch",
+        "wowoptions/option-type/text-area",
+        "wowoptions/option-type/text-field",
+        "wowoptions/option-type/upload"
+      ],
+      "tab": "WowOptions"
+    },
+    {
+      "group": "Performance",
+      "pages": [
+        "wowoptions/analytics"
+      ],
+      "tab": "WowOptions"
     }
   ],
   "footerSocials": {
     "x": "https://x.com/wowapps",
     "github": "https://github.com/wowapps"
-  }
+  },
+  "tabs": [
+    {
+      "name": "WowETA",
+      "url": "woweta"
+    },
+    {
+      "name": "WowOptions",
+      "url": "wowoptions"
+    }
+  ]
 }
