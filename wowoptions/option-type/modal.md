@@ -2,17 +2,17 @@
 
 The **Modal** option lets you display additional content in a popup window, such as instructions, size charts, or personalization previews.
 
-![Select Modal Option](/wow-options/docs/option-type/modal/wowoptions-select-modal-option.webp)
+![Select Modal Option](../wow-options/docs/option-type/modal/wowoptions-select-modal-option.webp)
 
 Here's an example of how the Modal appears on the frontend
 
-![Modal Option Example](/wow-options/docs/option-type/modal/wowoptions-modal-option-example.webp)
+![Modal Option Example](../wow-options/docs/option-type/modal/wowoptions-modal-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the main configuration of the Modal option, including the trigger text, popup title, and the content displayed inside the modal window.
 
-![General Settings for Modal Option](/wow-options/docs/option-type/modal/wowoptions-general-settings-for-modal-option.webp)
+![General Settings for Modal Option](../wow-options/docs/option-type/modal/wowoptions-general-settings-for-modal-option.webp)
 
 ### Label
 
@@ -64,7 +64,7 @@ Defines the content displayed inside the modal window. Use the editor toolbar to
 
 This tab controls how the modal trigger and popup appear on the product page, including help text placement, modal width, display type, layout width, and custom styling.
 
-![Modal Option Style Tab](/wow-options/docs/option-type/modal/wowoptions-modal-option-style-tab.webp)
+![Modal Option Style Tab](../wow-options/docs/option-type/modal/wowoptions-modal-option-style-tab.webp)
 
 ### Help Text Position
 

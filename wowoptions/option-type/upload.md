@@ -2,17 +2,17 @@
 
 The **Upload** option lets customers upload files or images, such as logos, photos, or design references.
 
-![Select Upload Option](/wow-options/docs/option-type/upload/wowoptions-select-upload-option.webp)
+![Select Upload Option](../wow-options/docs/option-type/upload/wowoptions-select-upload-option.webp)
 
 Here's an example of how the Upload Field appears on the frontend
 
-![Upload Option Example](/wow-options/docs/option-type/upload/wowoptions-upload-option-example.webp)
+![Upload Option Example](../wow-options/docs/option-type/upload/wowoptions-upload-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the main configuration of the Upload field, including the label, help text, pricing behavior, allowed file types, file size limits, and the maximum number of files customers can upload.
 
-![General Settings for Upload Option](/wow-options/docs/option-type/upload/wowoptions-general-settings-for-upload-option.webp)
+![General Settings for Upload Option](../wow-options/docs/option-type/upload/wowoptions-general-settings-for-upload-option.webp)
 
 ### Required
 
@@ -85,7 +85,7 @@ Custom error message displayed when the number of uploaded files exceeds the all
 
 This tab controls how the Upload field appears on the product page, including help text placement, field width, and custom styling.
 
-![Upload Option Style Tab](/wow-options/docs/option-type/upload/wowoptions-upload-option-style-tab.webp)
+![Upload Option Style Tab](../wow-options/docs/option-type/upload/wowoptions-upload-option-style-tab.webp)
 
 ### Help Text Position
 

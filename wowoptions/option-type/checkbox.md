@@ -2,16 +2,16 @@
 
 The Checkbox option lets customers select multiple options, such as add-ons, accessories, or extra features.
 
-![Select Checkbox Option](/wow-options/docs/option-type/checkbox/wowoptions-select-checkbox-option.webp)
+![Select Checkbox Option](../wow-options/docs/option-type/checkbox/wowoptions-select-checkbox-option.webp)
 
 Here’s an example of how the Checkbox appears on the frontend
 
-![Checkbox Option Example](/wow-options/docs/option-type/checkbox/wowoptions-checkbox-option-example.webp)
+![Checkbox Option Example](../wow-options/docs/option-type/checkbox/wowoptions-checkbox-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the core configuration of the Checkbox field, including the label, help text, selectable options, pricing behavior, and selection limits.
-![General Settings for Checkbox Option](/wow-options/docs/option-type/checkbox/wowoptions-general-settings-for-checkbox-option.webp)
+![General Settings for Checkbox Option](../wow-options/docs/option-type/checkbox/wowoptions-general-settings-for-checkbox-option.webp)
 
 ### Required
 
@@ -79,7 +79,7 @@ Controls how many checkbox options customers can select.
 ## Style Tab (Layout & Appearance)
 
 This tab controls how the Checkbox field appears on the product page, including help text placement, layout columns, option image style, field width, and custom styling.
-![Checkbox Option Style Tab](/wow-options/docs/option-type/checkbox/wowoptions-checkbox-option-style-tab.webp)
+![Checkbox Option Style Tab](../wow-options/docs/option-type/checkbox/wowoptions-checkbox-option-style-tab.webp)
 
 ### Help Text Position
 

@@ -23,7 +23,7 @@ Visit [apps.shopify.com](https://apps.shopify.com) or go to your Shopify admin, 
 
 Furthermore, if you click on **_'Apps'_** from your dashboard, you can either click on **_"All Recommended Apps"_** or **_"App and Sales Channel Settings"_**. You can visit the Shopify App Store directly from both these settings.
 
-![WowETA App Store](/docs/woweta-app-store.png)
+![WowETA App Store](docs/woweta-app-store.png)
 
 ### Find the WowETA App
 
@@ -55,6 +55,6 @@ _You can also go to ‘Apps > Apps and Sales Channels’ and find all your Shopi
 
 To upgrade to the pro version of the app, you need to go to the “Pricing Plan” section of the app. From there, you can upgrade or downgrade based on your preference. Pricing will be adjusted accordingly based on your use.
 
-![WowETA Pricing Plan](/docs/woweta-pricing-plan.png)
+![WowETA Pricing Plan](docs/woweta-pricing-plan.png)
 
 You can get support for this Shopify app by emailing [support@wpxpo.com](mailto:support@wpxpo.com) directly or clicking on Resources > Get Support from the WowETA plugin dashboard.

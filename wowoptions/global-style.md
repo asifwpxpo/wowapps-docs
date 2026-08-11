@@ -10,7 +10,7 @@ Controls the overall size of all option fields and inputs.
 - **Medium** — Balanced size suitable for most stores
 - **Large** — Bigger fields for better visibility and easier interaction
 
-![Global Style Section in WowOptions](/wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
+![Global Style Section in WowOptions](wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
 
 ## Field & Components Shape
 
@@ -19,7 +19,7 @@ Defines the visual shape of input fields and UI elements.
 - **Rounded** — Applies rounded corners for a softer, modern look
 - **Sharp** — Uses straight edges for a more minimal and structured look
 
-![Global Style Section in WowOptions](/wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
+![Global Style Section in WowOptions](wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
 
 ## Choose Color Palette
 
@@ -43,4 +43,4 @@ Each palette affects elements such as:
 
 This helps ensure your product options match your store's branding and visual style.
 
-![Custom Key Colors Section in WowOptions](/wow-options/docs/global-style/wowoptions-custom-key-colors-section-in-wowoption.webp)
+![Custom Key Colors Section in WowOptions](wow-options/docs/global-style/wowoptions-custom-key-colors-section-in-wowoption.webp)

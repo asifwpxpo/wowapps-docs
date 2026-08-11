@@ -2,7 +2,7 @@
 
 The **Date and Time** option lets customers select a specific date or time, such as a delivery date, appointment time, or event date.
 
-![Select Date and Time Option](/wow-options/docs/option-type/date-and-time/wowoptions-select-date-and-time-option.webp)
+![Select Date and Time Option](../wow-options/docs/option-type/date-and-time/wowoptions-select-date-and-time-option.webp)
 
 Here's an example of how the Date & Time Field appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Date & Time Field appears on the frontend
 
 This tab controls the core configuration of the Date & Time field, including the label, help text, pricing behavior, date or time selection type, and available date or time restrictions.
 
-![General Settings for Date and Time Option](/wow-options/docs/option-type/date-and-time/wowoptions-general-settings-for-date-and-time-option.webp)
+![General Settings for Date and Time Option](../wow-options/docs/option-type/date-and-time/wowoptions-general-settings-for-date-and-time-option.webp)
 
 ### Required
 
@@ -110,7 +110,7 @@ Defines the earliest and the latest time customers can select. This allows you t
 
 This tab controls how the Date & Time field appears on the product page, including help text placement, price display position, field width, and custom styling.
 
-![Date and Time Option Style Tab](/wow-options/docs/option-type/date-and-time/wowoptions-date-and-time-option-style-tab.webp)
+![Date and Time Option Style Tab](../wow-options/docs/option-type/date-and-time/wowoptions-date-and-time-option-style-tab.webp)
 
 ### Help Text Position
 

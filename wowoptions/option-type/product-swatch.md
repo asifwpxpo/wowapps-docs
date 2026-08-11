@@ -2,7 +2,7 @@
 
 The **Product Swatch** option lets customers select product variations using visual swatches, such as different product styles or variants.
 
-![Select Product Swatch Option](/wow-options/docs/option-type/product-swatch/wowoptions-select-product-swatch-option.webp)
+![Select Product Swatch Option](../wow-options/docs/option-type/product-swatch/wowoptions-select-product-swatch-option.webp)
 
 Here's an example of how the Product Swatch appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Product Swatch appears on the frontend
 
 This tab controls the Product Swatch field configuration, including the label, help text, linked products, selection behavior, and quantity limits.
 
-![General Settings for Product Swatch Option](/wow-options/docs/option-type/product-swatch/wowoptions-general-settings-for-product-swatch-option.webp)
+![General Settings for Product Swatch Option](../wow-options/docs/option-type/product-swatch/wowoptions-general-settings-for-product-swatch-option.webp)
 
 ### Required
 
@@ -78,7 +78,7 @@ Controls how many product swatches customers can select.
 
 This tab controls how the Product Swatch field appears on the product page, including display type, layout style, help text position, field width, and custom swatch dimensions.
 
-![Product Swatch Option Style Tab](/wow-options/docs/option-type/product-swatch/wowoptions-product-swatch-option-style-tab.webp)
+![Product Swatch Option Style Tab](../wow-options/docs/option-type/product-swatch/wowoptions-product-swatch-option-style-tab.webp)
 
 ### Block Type
 

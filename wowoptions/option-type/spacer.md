@@ -4,7 +4,7 @@ The Spacer option lets you add space between fields to improve layout and readab
 
 Unlike other fields, the Spacer does not display any fields to collect user input. Its purpose is purely to control spacing within options fields.
 
-![Select Spacer Option](/wow-options/docs/option-type/spacer/wowoptions-select-spacer-option.webp)
+![Select Spacer Option](../wow-options/docs/option-type/spacer/wowoptions-select-spacer-option.webp)
 
 Here's an example of how the Spacer appears on the frontend
 
@@ -12,7 +12,7 @@ Here's an example of how the Spacer appears on the frontend
 
 Controls the amount of empty vertical space inserted between option fields or sections. Use this to improve layout spacing and make groups of options easier for customers to read.
 
-![General Settings for Spacer Option](/wow-options/docs/option-type/spacer/wowoptions-general-settings-for-spacer-option.webp)
+![General Settings for Spacer Option](../wow-options/docs/option-type/spacer/wowoptions-general-settings-for-spacer-option.webp)
 
 ### Recommended Height Values
 

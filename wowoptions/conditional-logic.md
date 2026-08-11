@@ -6,7 +6,7 @@ Conditions allow you to control when an option field is shown or hidden based on
 
 Enable this option to apply conditional rules to the field. Once enabled, the field will follow the rules you define.
 
-![Conditional Logic Tab in WowOptions](/wow-options/docs/conditional-logic/wowoptions-conditional-logic-tab-in-wowoptions.webp)
+![Conditional Logic Tab in WowOptions](wow-options/docs/conditional-logic/wowoptions-conditional-logic-tab-in-wowoptions.webp)
 
 ## Visibility
 
@@ -15,7 +15,7 @@ Defines what happens when the conditions are met.
 - **Show**: The option will appear only when the defined conditions are satisfied.
 - **Hide**: The option will be hidden when the defined conditions are satisfied.
 
-![Show or Hide Conditions](/wow-options/docs/conditional-logic/wowoptions-show-or-hide-conditions.webp)
+![Show or Hide Conditions](wow-options/docs/conditional-logic/wowoptions-show-or-hide-conditions.webp)
 
 ## Match Type
 
@@ -24,7 +24,7 @@ Controls how multiple rules are evaluated.
 - **Any**: The condition will be applied if any one of the rules is true.
 - **All**: The condition will be applied only if all rules are true.
 
-![Match Type for Conditions](/wow-options/docs/conditional-logic/wowoptions-match-type-for-conditions.webp)
+![Match Type for Conditions](wow-options/docs/conditional-logic/wowoptions-match-type-for-conditions.webp)
 This creates four possible rule combinations:
 
 <table>
@@ -75,7 +75,7 @@ Rules determine which field and value will trigger the condition. Each rule cont
 
 Click Add New Rule to add additional conditions. Multiple rules can be combined to create more advanced logic.
 
-![Conditions Parameters](/wow-options/docs/conditional-logic/wowoptions-conditions-parameters.webp)
+![Conditions Parameters](wow-options/docs/conditional-logic/wowoptions-conditions-parameters.webp)
 
 ## Important Note
 

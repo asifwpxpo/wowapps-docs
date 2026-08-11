@@ -2,17 +2,17 @@
 
 The **Image Swatch** option lets customers choose an option using images, such as selecting patterns, styles, or product variations.
 
-![Select Image Swatch Option](/wow-options/docs/option-type/image-switch/wowoptions-select-image-swatch-option.webp)
+![Select Image Swatch Option](../wow-options/docs/option-type/image-switch/wowoptions-select-image-swatch-option.webp)
 
 Here's an example of how the Image Swatch appears on the frontend
 
-![Image Swatch Option Example](/wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-example.webp)
+![Image Swatch Option Example](../wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the core configuration of the Image Swatch field, including the label, help text, selectable options, pricing behavior, and selection limits.
 
-![General Settings for Image Swatch Option](/wow-options/docs/option-type/image-switch/wowoptions-general-settings-for-image-swatch-option.webp)
+![General Settings for Image Swatch Option](../wow-options/docs/option-type/image-switch/wowoptions-general-settings-for-image-swatch-option.webp)
 
 ### Required
 
@@ -83,7 +83,7 @@ Controls how many swatches a customer can select.
 
 This tab controls how the Image Swatch field appears on the product page, including help text placement, swatch style, layout width, and custom image dimensions.
 
-![Image Swatch Option Style Tab](/wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-style-tab.webp)
+![Image Swatch Option Style Tab](../wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-style-tab.webp)
 
 ### Help Text Position
 

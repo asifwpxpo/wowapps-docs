@@ -1,14 +1,14 @@
 # Color Picker
 
 The **Color Picker** option lets customers choose any color using a color selection tool.
-![Select Color Picker Option](/wow-options/docs/option-type/color-picker/wowoptions-select-color-picker-option.webp)
+![Select Color Picker Option](../wow-options/docs/option-type/color-picker/wowoptions-select-color-picker-option.webp)
 
 Here's an example of how the Color Picker appears on the frontend
 
 ## General Tab (Basic Settings)
 
 This tab controls the Color Picker field configuration, including the label, help text, pricing behavior, and default color value.
-![General Settings for Color Picker Option](/wow-options/docs/option-type/color-picker/wowoptions-general-settings-for-color-picker-option.webp)
+![General Settings for Color Picker Option](../wow-options/docs/option-type/color-picker/wowoptions-general-settings-for-color-picker-option.webp)
 
 ### Required
 
@@ -53,7 +53,7 @@ Defines the default color shown when the product page loads. Customers can chang
 ## Style Tab (Layout & Appearance)
 
 This tab controls how the Color Picker field appears on the product page, including help text placement, price position, and field width.
-![Color Picker Option Style Tab](/wow-options/docs/option-type/color-picker/wowoptions-color-picker-option-style-tab.webp)
+![Color Picker Option Style Tab](../wow-options/docs/option-type/color-picker/wowoptions-color-picker-option-style-tab.webp)
 
 ### Help Text Position
 

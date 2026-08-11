@@ -2,7 +2,7 @@
 
 The **Number** option lets customers enter numeric values, such as measurements, quantities, or custom dimensions.
 
-![Select Number Option](/wow-options/docs/option-type/number/wowoptions-select-number-option.webp)
+![Select Number Option](../wow-options/docs/option-type/number/wowoptions-select-number-option.webp)
 
 Here's an example of how the Number Field appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Number Field appears on the frontend
 
 This tab controls the core configuration of the Number field, including the label, help text, pricing behavior, numeric step values, and minimum or maximum limits.
 
-![General Settings for Number Option](/wow-options/docs/option-type/number/wowoptions-general-settings-for-number-option.webp)
+![General Settings for Number Option](../wow-options/docs/option-type/number/wowoptions-general-settings-for-number-option.webp)
 
 ### Required
 
@@ -73,7 +73,7 @@ Enable this option to restrict the range of numbers customers can enter.
 
 This tab controls how the Number field appears on the product page, including help text placement, price display position, field width, and custom styling.
 
-![Number Option Style Tab](/wow-options/docs/option-type/number/wowoptions-number-option-style-tab.webp)
+![Number Option Style Tab](../wow-options/docs/option-type/number/wowoptions-number-option-style-tab.webp)
 
 ### Help Text Position
 

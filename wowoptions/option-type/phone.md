@@ -2,7 +2,7 @@
 
 The **Phone** option lets customers enter a phone number, such as a contact number for delivery or support.
 
-![Select Phone Option](/wow-options/docs/option-type/phone/wowoptions-select-phone-option.webp)
+![Select Phone Option](../wow-options/docs/option-type/phone/wowoptions-select-phone-option.webp)
 
 Here's an example of how the Phone Field appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Phone Field appears on the frontend
 
 This tab controls the core configuration of the Phone field, including the label, help text, pricing behavior, placeholder text, and phone input format.
 
-![General Settings for Phone Option](/wow-options/docs/option-type/phone/wowoptions-general-settings-for-phone-option.webp)
+![General Settings for Phone Option](../wow-options/docs/option-type/phone/wowoptions-general-settings-for-phone-option.webp)
 
 ### Required
 
@@ -65,7 +65,7 @@ Defines how the phone number input is displayed and formatted. Use the flag and 
 
 This tab controls how the Phone field appears on the product page, including help text placement, price display position, field width, and custom styling.
 
-![Phone Option Style Tab](/wow-options/docs/option-type/phone/wowoptions-phone-option-style-tab.webp)
+![Phone Option Style Tab](../wow-options/docs/option-type/phone/wowoptions-phone-option-style-tab.webp)
 
 ### Help Text Position
 

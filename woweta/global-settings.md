@@ -4,7 +4,7 @@ You can enable the WowAddons block for both the latest themes and the vintage th
 
 For vintage themes, you need to enable the “Embed App” option and then manually add the code snippet in the liquid code.
 
-![WowETA Block](/docs/woweta-block.png)
+![WowETA Block](docs/woweta-block.png)
 
 **Timezone Selection:** Select the desired timezone from the dropdown for optimal delivery.
 
@@ -14,7 +14,7 @@ _By default, the buyer's timezone is selected. Based on your selection, the deli
 
 _You can use the same day and time settings for both the preparation time and the delivery time._
 
-![WowETA Workday and Preparation Time](/docs/woweta-workday-and-preparation-time.png)
+![WowETA Workday and Preparation Time](docs/woweta-workday-and-preparation-time.png)
 
 You can also set the cut-off times.
 
@@ -26,7 +26,7 @@ _A cut-off time is the deadline by which a task, order, or transaction must be s
 - Select the date
 - Choose if the holiday applies only this year or repeats every year.
 
-![WowETA Holidays](/docs/woweta-holidays.png)
+![WowETA Holidays](docs/woweta-holidays.png)
 
 **Date Format:** The date format setting is for the display of the delivery dates - it specifies how the delivery date appears on the customer’s screen.
 
@@ -34,7 +34,7 @@ _A cut-off time is the deadline by which a task, order, or transaction must be s
 - If you’re using a custom format, then use the formatting optins given to create your own custom format.
 - Or you can simply select a custom date format.
 
-![WowETA Date Format](/docs/woweta-date-format.png)
+![WowETA Date Format](docs/woweta-date-format.png)
 
 **New:** We’ve added a relative date format. Take this as an example:
 
@@ -47,7 +47,7 @@ In short, using the relative date format, the store owner can show:
 - Same-day delivery = “**Today**”
 - Next-day delivery = “**Tomorrow**”
 
-![WowETA Date Format](/docs/woweta-relative-date-format.png)
+![WowETA Date Format](docs/woweta-relative-date-format.png)
 
 Simply select “Relative Date (today, tomorrow)” from the “Date Display Mode” toggle and set the delivery dates as mentioned above.
 
@@ -59,25 +59,25 @@ Simply select “Relative Date (today, tomorrow)” from the “Date Display Mod
 - The setting shows you a preview of the appearance of the timer
 - Just create your desired format and save
 
-![WowETA Countdown Timer](/docs/woweta-countdown-timer.png)
+![WowETA Countdown Timer](docs/woweta-countdown-timer.png)
 
 **Delivery Update:** The delivery update alert lets store owners show a custom message on the checkout, cart drawer, order status, and thank you page.
 
 - Enable ‘Show delivery update’ to show the delivery notification in the mentioned pages
 - Use the variables to create the delivery update message and save
 
-![WowETA Delivery Update](/docs/woweta-delivery-update.png)
+![WowETA Delivery Update](docs/woweta-delivery-update.png)
 
 **Vacation Mode:** You can show custom messages when you’re on vacation and not taking orders.
 
 - You need to enable vacation mode
 - Share your custom message with the users
 
-![WowETA Vacation Mode](/docs/woweta-vacation-mode.png)
+![WowETA Vacation Mode](docs/woweta-vacation-mode.png)
 
 **Out of Stock:** Using this system, you can create custom notifications to share out-of-stock messages with users.
 
 - To use this, you must ‘Enable Out of Stock Message’
 - Then create your own custom message and save
 
-![WowETA Out of Stock](/docs/woweta-out-of-stock.png)
+![WowETA Out of Stock](docs/woweta-out-of-stock.png)

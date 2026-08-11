@@ -7,4 +7,4 @@ From the dashboard, you’ll be able to see:
 - The impressions, CTR, and add to cart rate
 - Delivery rule-wise performance, and more…
 
-![WowETA Analytics](/docs/woweta-analytics.png)
+![WowETA Analytics](docs/woweta-analytics.png)

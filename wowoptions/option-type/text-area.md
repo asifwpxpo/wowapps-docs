@@ -2,7 +2,7 @@
 
 The **Text Area** option lets customers enter longer text or detailed information, such as special instructions, notes, or personalization details.
 
-![Select Text Area Option](/wow-options/docs/option-type/text-area/wowoptions-select-text-area-option.webp)
+![Select Text Area Option](../wow-options/docs/option-type/text-area/wowoptions-select-text-area-option.webp)
 
 Here's an example of how the Text Area appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Text Area appears on the frontend
 
 This tab controls the core configuration of the Text Area field, including the label, help text, pricing behavior, placeholder text, input size, and character limits.
 
-![General Settings for Text Area Option](/wow-options/docs/option-type/text-area/wowoptions-general-settings-for-text-area-option.webp)
+![General Settings for Text Area Option](../wow-options/docs/option-type/text-area/wowoptions-general-settings-for-text-area-option.webp)
 
 ### Required
 
@@ -85,7 +85,7 @@ Enable this option to restrict how many characters customers can enter.
 
 This tab controls how the Text Area field appears on the product page, including help text placement, text formatting behavior, field width, and custom styling.
 
-![Text Area Option Style Tab](/wow-options/docs/option-type/text-area/wowoptions-text-area-option-style-tab.webp)
+![Text Area Option Style Tab](../wow-options/docs/option-type/text-area/wowoptions-text-area-option-style-tab.webp)
 
 ### Help Text Position
 

@@ -3,7 +3,7 @@
 The Divider option lets you add a visual separator between sections to organize product options, such as separating personalization fields from add-ons.
 Instead of showing all options in one long list, the divider creates a **visual break** between different option groups.
 
-![Select Divider Option](/wow-options/docs/option-type/divider/wowoptions-select-divider-option.webp)
+![Select Divider Option](../wow-options/docs/option-type/divider/wowoptions-select-divider-option.webp)
 
 Here's an example of how the Divider appears on the frontend
 
@@ -11,7 +11,7 @@ Here's an example of how the Divider appears on the frontend
 
 This tab controls the basic configuration of the Divider field, including the label and divider height.
 
-![General Settings for Divider Option](/wow-options/docs/option-type/divider/wowoptions-general-settings-for-divider-option.webp)
+![General Settings for Divider Option](../wow-options/docs/option-type/divider/wowoptions-general-settings-for-divider-option.webp)
 
 ### Label
 

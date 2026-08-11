@@ -2,17 +2,17 @@
 
 The **Dropdown** option lets customers select one option from a list, such as size, material, or style.
 
-![Select Dropdown Option](/wow-options/docs/option-type/dropdown/wowoptions-select-dropdown-option.webp)
+![Select Dropdown Option](../wow-options/docs/option-type/dropdown/wowoptions-select-dropdown-option.webp)
 
 Here's an example of how the Dropdown appears on the frontend
 
-![Dropdown Option Example](/wow-options/docs/option-type/dropdown/wowoptions-dropdown-option-example.webp)
+![Dropdown Option Example](../wow-options/docs/option-type/dropdown/wowoptions-dropdown-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the core configuration of the Dropdown field, including the label, help text, selectable options, pricing behavior, and placeholder text.
 
-![General Settings for Dropdown Option](/wow-options/docs/option-type/dropdown/wowoptions-general-settings-for-dropdown-option.webp)
+![General Settings for Dropdown Option](../wow-options/docs/option-type/dropdown/wowoptions-general-settings-for-dropdown-option.webp)
 
 ### Required
 
@@ -64,7 +64,7 @@ Defines the placeholder text shown before a selection is made. This helps guide 
 
 This tab controls how the Dropdown field appears on the product page, including help text placement, option image style, field width, and custom styling.
 
-![Dropdown Option Style Tab](/wow-options/docs/option-type/dropdown/wowoptions-dropdown-option-style-tab.webp)
+![Dropdown Option Style Tab](../wow-options/docs/option-type/dropdown/wowoptions-dropdown-option-style-tab.webp)
 
 ### Help Text Position
 

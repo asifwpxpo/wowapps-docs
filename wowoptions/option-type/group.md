@@ -3,17 +3,17 @@
 The Group option lets you collect related product options inside a single visual block. It’s perfect for organizing extras such as size + fit fields, gift options, or any set of fields that belong together.
 You can present the block as a static group or as a collapsible accordion for a cleaner product page.
 
-![Select Group Option](/wow-options/docs/option-type/group/wowoptions-select-group-option.webp)
+![Select Group Option](../wow-options/docs/option-type/group/wowoptions-select-group-option.webp)
 
 Here’s an example of how the Group appears on the frontend
 
-![Group Option Example](/wow-options/docs/option-type/group/wowoptions-group-option-example.webp)
+![Group Option Example](../wow-options/docs/option-type/group/wowoptions-group-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the group’s basic configuration, including the group label, help text, header visibility, and how option fields are added inside the group.
 
-![General Settings for Group Option](/wow-options/docs/option-type/group/wowoptions-general-settings-for-group-option.webp)
+![General Settings for Group Option](../wow-options/docs/option-type/group/wowoptions-general-settings-for-group-option.webp)
 
 ### Hide Group Title
 
@@ -33,7 +33,7 @@ Note: A Group contains other option fields. After creating the group, click Add 
 
 This tab controls where help text appears, whether the block is an accordion, column width, and a unique CSS class.
 
-![Group Option Style Tab](/wow-options/docs/option-type/group/wowoptions-group-option-style-tab.webp)
+![Group Option Style Tab](../wow-options/docs/option-type/group/wowoptions-group-option-style-tab.webp)
 
 ### Help Text Position
 

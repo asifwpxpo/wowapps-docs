@@ -2,7 +2,7 @@
 
 The **Range Slider** option lets customers select a value within a range by sliding a control, such as choosing a quantity, size range, or measurement.
 
-![Select Range Slider Option](/wow-options/docs/option-type/range-slider/wowoptions-select-range-slider-option.webp)
+![Select Range Slider Option](../wow-options/docs/option-type/range-slider/wowoptions-select-range-slider-option.webp)
 
 Here's an example of how the Range Slider appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Range Slider appears on the frontend
 
 This tab controls the core configuration of the Range Slider option, including the label, help text, pricing behavior, slider range, step value, and default value.
 
-![General Settings for Range Slider Option](/wow-options/docs/option-type/range-slider/wowoptions-general-settings-for-range-slider-option.webp)
+![General Settings for Range Slider Option](../wow-options/docs/option-type/range-slider/wowoptions-general-settings-for-range-slider-option.webp)
 
 ### Required
 
@@ -83,7 +83,7 @@ Sets the maximum value that customers can select.
 
 This tab controls how the Range Slider appears on the product page, including help text placement, field width, and custom styling.
 
-![Range Slider Option Style Tab](/wow-options/docs/option-type/range-slider/wowoptions-range-slider-option-style-tab.webp)
+![Range Slider Option Style Tab](../wow-options/docs/option-type/range-slider/wowoptions-range-slider-option-style-tab.webp)
 
 ### Help Text Position
 

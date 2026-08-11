@@ -2,17 +2,17 @@
 
 The **Switch** option lets customers toggle a feature on or off, such as enabling gift wrapping or adding express delivery.
 
-![Select Switch Option](/wow-options/docs/option-type/switch/wowoptions-select-switch-option.webp)
+![Select Switch Option](../wow-options/docs/option-type/switch/wowoptions-select-switch-option.webp)
 
 Here's an example of how the Switch appears on the frontend
 
-![Switch Option Example](/wow-options/docs/option-type/switch/wowoptions-switch-option-example.webp)
+![Switch Option Example](../wow-options/docs/option-type/switch/wowoptions-switch-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the main configuration of the Switch field, including the label, help text, toggle behavior, pricing, and quantity limits.
 
-![General Settings for Switch Option](/wow-options/docs/option-type/switch/wowoptions-general-settings-for-switch-option.webp)
+![General Settings for Switch Option](../wow-options/docs/option-type/switch/wowoptions-general-settings-for-switch-option.webp)
 
 ### Required
 
@@ -66,7 +66,7 @@ Allows you to restrict the quantity when the switch option is enabled.
 
 This tab controls how the Switch field appears on the product page, including help text placement, price position, option image style, field width, and custom styling.
 
-![Switch Option Style Tab](/wow-options/docs/option-type/switch/wowoptions-switch-option-style-tab.webp)
+![Switch Option Style Tab](../wow-options/docs/option-type/switch/wowoptions-switch-option-style-tab.webp)
 
 ### Help Text Position
 

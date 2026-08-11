@@ -1,14 +1,14 @@
 # Content
 
 The **Content** option lets you display static text or information on the product page, such as instructions, descriptions, or personalization guidelines.
-![Select Content Option](/wow-options/docs/option-type/content/wowoptions-select-context-option.webp)
+![Select Content Option](../wow-options/docs/option-type/content/wowoptions-select-context-option.webp)
 
 Here's an example of how the Content appears on the frontend
 
 ## General Tab (Basic Settings)
 
 This tab controls the main content displayed to customers, including formatted text, images, links, tables, and other visual elements.
-![General Settings for Content Option](/wow-options/docs/option-type/content/wowoptions-general-settings-for-content-option.webp)
+![General Settings for Content Option](../wow-options/docs/option-type/content/wowoptions-general-settings-for-content-option.webp)
 
 ### Content Value
 
@@ -41,7 +41,7 @@ Use the editor toolbar to format the content. Available formatting options inclu
 ## Style Tab (Layout & Appearance)
 
 This tab controls how the content block appears on the product page, including layout width and custom styling.
-![Content Option Style Tab](/wow-options/docs/option-type/content/wowoptions-content-option-style-tab.webp)
+![Content Option Style Tab](../wow-options/docs/option-type/content/wowoptions-content-option-style-tab.webp)
 
 ### Field Width
 

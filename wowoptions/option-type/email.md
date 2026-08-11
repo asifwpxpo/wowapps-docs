@@ -2,7 +2,7 @@
 
 The **Email** option lets customers enter an email address, such as a contact email for order updates or design approval.
 
-![Select Email Option](/wow-options/docs/option-type/email/wowoptions-select-email-option.webp)
+![Select Email Option](../wow-options/docs/option-type/email/wowoptions-select-email-option.webp)
 
 Here's an example of how the Email Field appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Email Field appears on the frontend
 
 This tab controls the core configuration of the Email field, including the label, help text, pricing behavior, and placeholder text.
 
-![General Settings for Email Option](/wow-options/docs/option-type/email/wowoptions-general-settings-for-email-option.webp)
+![General Settings for Email Option](../wow-options/docs/option-type/email/wowoptions-general-settings-for-email-option.webp)
 
 ### Required
 
@@ -57,7 +57,7 @@ Example text displayed inside the input box before the customer types. Use place
 
 This tab controls how the Email field appears on the product page, including help text placement, price display position, field width, and custom styling.
 
-![Email Option Style Tab](/wow-options/docs/option-type/email/wowoptions-email-option-style-tab.webp)
+![Email Option Style Tab](../wow-options/docs/option-type/email/wowoptions-email-option-style-tab.webp)
 
 ### Help Text Position
 

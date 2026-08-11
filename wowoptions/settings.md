@@ -17,7 +17,7 @@ If the app is disabled, you can enable it by completing the following steps:
 
 Both steps are required to ensure the app works properly.
 
-![Settings Panel in WowOptions](/wow-options/docs/settings/wowoptions-settings-panel-in-wowoptions.webp)
+![Settings Panel in WowOptions](wow-options/docs/settings/wowoptions-settings-panel-in-wowoptions.webp)
 
 ## Other Settings
 
@@ -63,4 +63,4 @@ When exceeded, a scroll bar will appear
 
 You can also upload and use custom fonts from the Custom Fonts section in Settings. Supported formats include .ttf, .woff, and .woff2. Simply assign a name, upload your font, and you're ready to go.
 
-![Custom Fonts Upload in WowOptions](/wow-options/docs/settings/wowoptions-custom-fonts-upload-in-wowoptions.webp)
+![Custom Fonts Upload in WowOptions](wow-options/docs/settings/wowoptions-custom-fonts-upload-in-wowoptions.webp)
