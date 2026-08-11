@@ -3,18 +3,96 @@
   "theme": "mint",
   "name": "WowApps",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373"
+    "primary": "#347421",
+    "light": "#347421",
+    "dark": "#347421"
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Get Started",
-        "pages": [
-          "introduction",
-          "quickstart"
+        "tab": "WowETA",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "woweta/introduction",
+              "woweta/getting-started",
+              "woweta/faq"
+            ]
+          },
+          {
+            "group": "Configuration",
+            "pages": [
+              "woweta/global-settings",
+              "woweta/eta-rules",
+              "woweta/delivery-country",
+              "woweta/translation"
+            ]
+          },
+          {
+            "group": "Performance",
+            "pages": [
+              "woweta/analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "WowOptions",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "wowoptions/introduction",
+              "wowoptions/getting-started",
+              "wowoptions/faq"
+            ]
+          },
+          {
+            "group": "Core Setup",
+            "pages": [
+              "wowoptions/create-option-sets",
+              "wowoptions/conditional-logic",
+              "wowoptions/global-style",
+              "wowoptions/settings"
+            ]
+          },
+          {
+            "group": "Supported Option Types",
+            "pages": [
+              "wowoptions/option-type",
+              "wowoptions/option-type/button",
+              "wowoptions/option-type/checkbox",
+              "wowoptions/option-type/color-picker",
+              "wowoptions/option-type/color-swatch",
+              "wowoptions/option-type/content",
+              "wowoptions/option-type/date-time",
+              "wowoptions/option-type/divider",
+              "wowoptions/option-type/dropdown",
+              "wowoptions/option-type/email",
+              "wowoptions/option-type/group",
+              "wowoptions/option-type/image-swatch",
+              "wowoptions/option-type/link",
+              "wowoptions/option-type/modal",
+              "wowoptions/option-type/number",
+              "wowoptions/option-type/phone",
+              "wowoptions/option-type/product-swatch",
+              "wowoptions/option-type/radio",
+              "wowoptions/option-type/range-slider",
+              "wowoptions/option-type/spacer",
+              "wowoptions/option-type/switch",
+              "wowoptions/option-type/text-area",
+              "wowoptions/option-type/text-field",
+              "wowoptions/option-type/upload"
+            ]
+          },
+          {
+            "group": "Performance",
+            "pages": [
+              "wowoptions/analytics"
+            ]
+          }
         ]
       }
     ]
