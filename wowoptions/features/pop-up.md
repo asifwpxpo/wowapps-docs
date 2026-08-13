@@ -92,7 +92,11 @@ Open the product page on your storefront.
 
 You will see the popup button on the product page. When customers click the button, the popup/modal will open and display the content you added in the editor, such as a size chart, measurement guide, or other product information.
 
-See the attached screenshot below. ![Pop Up - Step 5](../.gitbook/assets/pop-up-step-5.png) ![Pop Up - Step 5 (2)](../.gitbook/assets/pop-up-step-5-2.png)
+See the attached screenshot below. &#x20;
+
+<figure><img src="../.gitbook/assets/pop-up-step-5-2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/pop-up-step-5.png" alt=""><figcaption></figcaption></figure>
 
 ## Need Help with Setup?
 
