@@ -2,17 +2,17 @@
 
 The **Upload** option lets customers upload files or images, such as logos, photos, or design references.
 
-![Select Upload Option](../wow-options/docs/option-type/upload/wowoptions-select-upload-option.webp)
+![Select Upload Option](../.gitbook/assets/wowoptions-select-upload-option.webp)
 
 Here's an example of how the Upload Field appears on the frontend
 
-![Upload Option Example](../wow-options/docs/option-type/upload/wowoptions-upload-option-example.webp)
+![Upload Option Example](../.gitbook/assets/wowoptions-upload-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the main configuration of the Upload field, including the label, help text, pricing behavior, allowed file types, file size limits, and the maximum number of files customers can upload.
 
-![General Settings for Upload Option](../wow-options/docs/option-type/upload/wowoptions-general-settings-for-upload-option.webp)
+![General Settings for Upload Option](../.gitbook/assets/wowoptions-general-settings-for-upload-option.webp)
 
 ### Required
 
@@ -36,9 +36,9 @@ Determines whether uploading a file affects the product price.
 
 Available options include:
 
-- **Fixed** — adds a fixed amount when a file is uploaded.
-- **Percentage** — adds a percentage of the product price.
-- **No Cost** — uploading files does not change the product price.
+* **Fixed** — adds a fixed amount when a file is uploaded.
+* **Percentage** — adds a percentage of the product price.
+* **No Cost** — uploading files does not change the product price.
 
 ### Price
 
@@ -48,18 +48,18 @@ Defines the additional cost applied when the upload option is used.
 
 Defines the file formats customers are allowed to upload. You can allow one or multiple formats depending on your use case. There are 19 file types supported in WowOptions.
 
-- jpg
-- png
-- gif
-- webp
-- svg
-- pdf
-- doc / docx
-- xls / xlsx
-- txt / csv
-- zip / rar
-- mp3 / wav
-- mp4 / webm / mov
+* jpg
+* png
+* gif
+* webp
+* svg
+* pdf
+* doc / docx
+* xls / xlsx
+* txt / csv
+* zip / rar
+* mp3 / wav
+* mp4 / webm / mov
 
 Only files matching the allowed extensions will be accepted.
 
@@ -85,24 +85,24 @@ Custom error message displayed when the number of uploaded files exceeds the all
 
 This tab controls how the Upload field appears on the product page, including help text placement, field width, and custom styling.
 
-![Upload Option Style Tab](../wow-options/docs/option-type/upload/wowoptions-upload-option-style-tab.webp)
+![Upload Option Style Tab](../.gitbook/assets/wowoptions-upload-option-style-tab.webp)
 
 ### Help Text Position
 
 Controls where the help text appears relative to the upload field.
 
-- **Below Label:** help text appears under the field label.
-- **Below Field:** help text appears below the upload area.
-- **Tooltip:** help text appears inside an information icon.
+* **Below Label:** help text appears under the field label.
+* **Below Field:** help text appears below the upload area.
+* **Tooltip:** help text appears inside an information icon.
 
 ### Field Width
 
 Controls how wide the upload field appears within the options layout.
 
-- **33%** — narrow column
-- **50%** — half width
-- **66%** — wider column
-- **100%** — full width
+* **33%** — narrow column
+* **50%** — half width
+* **66%** — wider column
+* **100%** — full width
 
 ### Class (Unique)
 
@@ -116,4 +116,4 @@ Use this tab to control the visibility of the Upload option. You can show or hid
 
 ## Get Support 👇
 
-If you experience any issues while configuring the Upload option, reach out to the WowApps support team via the in-app chat or email <a href="mailto:support@wowapps.io">**support@wowapps.io**</a>. You can also reach the dedicated manager at <a href="mailto:nayeem@wowapps.io">**nayeem@wowapps.io**</a>.
+If you experience any issues while configuring the Upload option, reach out to the WowApps support team via the in-app chat or email [**support@wowapps.io**](mailto:support@wowapps.io). You can also reach the dedicated manager at [**nayeem@wowapps.io**](mailto:nayeem@wowapps.io).

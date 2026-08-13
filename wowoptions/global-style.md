@@ -6,41 +6,41 @@ The Global Style settings allow you to control the overall look and feel of all 
 
 Controls the overall size of all option fields and inputs.
 
-- **Small** — More compact layout with tighter spacing
-- **Medium** — Balanced size suitable for most stores
-- **Large** — Bigger fields for better visibility and easier interaction
+* **Small** — More compact layout with tighter spacing
+* **Medium** — Balanced size suitable for most stores
+* **Large** — Bigger fields for better visibility and easier interaction
 
-![Global Style Section in WowOptions](wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
+![Global Style Section in WowOptions](.gitbook/assets/wowoptions-global-style-section-in-wowoptions.webp)
 
 ## Field & Components Shape
 
 Defines the visual shape of input fields and UI elements.
 
-- **Rounded** — Applies rounded corners for a softer, modern look
-- **Sharp** — Uses straight edges for a more minimal and structured look
+* **Rounded** — Applies rounded corners for a softer, modern look
+* **Sharp** — Uses straight edges for a more minimal and structured look
 
-![Global Style Section in WowOptions](wow-options/docs/global-style/wowoptions-global-style-section-in-wowoptions.webp)
+![Global Style Section in WowOptions](.gitbook/assets/wowoptions-global-style-section-in-wowoptions.webp)
 
 ## Choose Color Palette
 
 Sets the color theme used across buttons, selections, and interactive elements. Available palettes include:
 
-- Classic
-- Blue
-- Purple
-- Pink
-- Rose
-- Orange
-- Green
-- Teal
+* Classic
+* Blue
+* Purple
+* Pink
+* Rose
+* Orange
+* Green
+* Teal
 
 Each palette affects elements such as:
 
-- Buttons
-- Selected states
-- Highlights
-- Interactive components
+* Buttons
+* Selected states
+* Highlights
+* Interactive components
 
 This helps ensure your product options match your store's branding and visual style.
 
-![Custom Key Colors Section in WowOptions](wow-options/docs/global-style/wowoptions-custom-key-colors-section-in-wowoption.webp)
+![Custom Key Colors Section in WowOptions](.gitbook/assets/wowoptions-custom-key-colors-section-in-wowoption.webp)

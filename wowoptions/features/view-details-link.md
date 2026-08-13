@@ -38,33 +38,33 @@ These options help merchants decide whether the link should appear as a separate
 
 Imagine Max is having a gift store with multiple gift options like candy box, strawberry box, chocolate box etc. Different customers can choose different gift items. And under each gift item there is a view link to showcase the details of the gift items. Like this:
 
-![View Details Link - How to setup with real use case](images/view-details-link-example.png)
+![View Details Link - How to setup with real use case](../.gitbook/assets/view-details-link-example.png)
 
 To set up the view details link using wowoptions follow the steps below.
 
 ### Step 1
 
-- At first you need to create an option set and make a list of your gift items. To do that you can use a radio button (option type) for showcasing the gift items.
-- Add your options/gift items to the option set. Like below:
-- Below the options, you can see the button of “Option details link”.
+* At first you need to create an option set and make a list of your gift items. To do that you can use a radio button (option type) for showcasing the gift items.
+* Add your options/gift items to the option set. Like below:
+* Below the options, you can see the button of “Option details link”.
 
-![View Details Link - Step 1](images/view-details-link-step-1.png)
+![View Details Link - Step 1](../.gitbook/assets/view-details-link-step-1.png)
 
 **Step 2**: Once you click on the “Option details link” button. You will get a new tab to add option details. Click on the enable button.
 
-- After clicking on the enable button, you can add the links of the details of the products.
-- Add the link label that you want to show to your customers. Like: view or view buttons.
-- Then add the details link of each item that you want to show to your customers.
-- Click on apply to save. Like the image below:
+* After clicking on the enable button, you can add the links of the details of the products.
+* Add the link label that you want to show to your customers. Like: view or view buttons.
+* Then add the details link of each item that you want to show to your customers.
+* Click on apply to save. Like the image below:
 
-![View Details Link - Step 1 (2)](images/view-details-link-step-1-2.png)
+![View Details Link - Step 1 (2)](../.gitbook/assets/view-details-link-step-1-2.png)
 
 ### Step 3
 
-- After setting it up, you will see the detailed view links within the product. Do not forget to add this option set to your product.
-- Then finally save it to make it workable within your store. Like below:
+* After setting it up, you will see the detailed view links within the product. Do not forget to add this option set to your product.
+* Then finally save it to make it workable within your store. Like below:
 
-![View Details Link - Step 3](images/view-details-link-step-3.png)
+![View Details Link - Step 3](../.gitbook/assets/view-details-link-step-3.png)
 
 ## Need Help with Setup?
 

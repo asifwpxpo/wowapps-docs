@@ -52,7 +52,7 @@ First, create a new option and select the Popup/Modal option type.
 
 Like the screenshot below.
 
-![Pop Up - Step 1](images/pop-up-step-1.png)
+![Pop Up - Step 1](../.gitbook/assets/pop-up-step-1.png)
 
 ### Step 2
 
@@ -66,7 +66,7 @@ Once you have finished, click Save to save the option.
 
 See the attached screenshot below.
 
-![Pop Up - Step 2](images/pop-up-step-2.png)
+![Pop Up - Step 2](../.gitbook/assets/pop-up-step-2.png)
 
 ### Step 3
 
@@ -76,7 +76,7 @@ After assigning the product, click Save to save the changes.
 
 See the attached screenshot below.
 
-![Pop Up - Step 3](images/pop-up-step-3.png)
+![Pop Up - Step 3](../.gitbook/assets/pop-up-step-3.png)
 
 ### Step 4
 
@@ -84,7 +84,7 @@ Go back to the Product Options page and click Save to save the entire option set
 
 See the attached screenshot below.
 
-![Pop Up - Step 4](images/pop-up-step-4.png)
+![Pop Up - Step 4](../.gitbook/assets/pop-up-step-4.png)
 
 ### Step 5
 
@@ -92,9 +92,7 @@ Open the product page on your storefront.
 
 You will see the popup button on the product page. When customers click the button, the popup/modal will open and display the content you added in the editor, such as a size chart, measurement guide, or other product information.
 
-See the attached screenshot below.
-![Pop Up - Step 5](images/pop-up-step-5.png)
-![Pop Up - Step 5 (2)](images/pop-up-step-5-2.png)
+See the attached screenshot below. ![Pop Up - Step 5](../.gitbook/assets/pop-up-step-5.png) ![Pop Up - Step 5 (2)](../.gitbook/assets/pop-up-step-5-2.png)
 
 ## Need Help with Setup?
 

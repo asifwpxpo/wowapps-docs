@@ -1,14 +1,12 @@
 # Color Picker
 
-The **Color Picker** option lets customers choose any color using a color selection tool.
-![Select Color Picker Option](../wow-options/docs/option-type/color-picker/wowoptions-select-color-picker-option.webp)
+The **Color Picker** option lets customers choose any color using a color selection tool. ![Select Color Picker Option](../.gitbook/assets/wowoptions-select-color-picker-option.webp)
 
 Here's an example of how the Color Picker appears on the frontend
 
 ## General Tab (Basic Settings)
 
-This tab controls the Color Picker field configuration, including the label, help text, pricing behavior, and default color value.
-![General Settings for Color Picker Option](../wow-options/docs/option-type/color-picker/wowoptions-general-settings-for-color-picker-option.webp)
+This tab controls the Color Picker field configuration, including the label, help text, pricing behavior, and default color value. ![General Settings for Color Picker Option](../.gitbook/assets/wowoptions-general-settings-for-color-picker-option.webp)
 
 ### Required
 
@@ -26,9 +24,9 @@ The visible name shown to customers (e.g., “Choose Color”, “Select Theme C
 
 Short instructional text shown to customers. For examples:
 
-- Choose your preferred color
-- Select a custom color for your product
-- Pick any color from the palette
+* Choose your preferred color
+* Select a custom color for your product
+* Pick any color from the palette
 
 The position of the help text can be controlled in the **Style Tab**.
 
@@ -38,9 +36,9 @@ Determines how the selected color affects the product price.
 
 Available options include:
 
-- **Fixed:** Adds a fixed amount to the product price.
-- **Percentage:** Adds a percentage based on the product price.
-- **No Cost:** Selecting a color does not affect the product price.
+* **Fixed:** Adds a fixed amount to the product price.
+* **Percentage:** Adds a percentage based on the product price.
+* **No Cost:** Selecting a color does not affect the product price.
 
 ### Price
 
@@ -52,32 +50,31 @@ Defines the default color shown when the product page loads. Customers can chang
 
 ## Style Tab (Layout & Appearance)
 
-This tab controls how the Color Picker field appears on the product page, including help text placement, price position, and field width.
-![Color Picker Option Style Tab](../wow-options/docs/option-type/color-picker/wowoptions-color-picker-option-style-tab.webp)
+This tab controls how the Color Picker field appears on the product page, including help text placement, price position, and field width. ![Color Picker Option Style Tab](../.gitbook/assets/wowoptions-color-picker-option-style-tab.webp)
 
 ### Help Text Position
 
 Controls where the help text appears relative to the field label.
 
-- **Below Label:** Help text appears under the field label. Best for readability and accessibility.
-- **Below Field:** Help text appears below the color picker field.
-- **Tooltip:** Help text appears inside a small info icon.
+* **Below Label:** Help text appears under the field label. Best for readability and accessibility.
+* **Below Field:** Help text appears below the color picker field.
+* **Tooltip:** Help text appears inside a small info icon.
 
 ### Price Position
 
 Controls where the additional price (if any) is displayed.
 
-- **With Title:** The price appears next to the field label.
-- **With Option:** The price appears beside the color picker field.
+* **With Title:** The price appears next to the field label.
+* **With Option:** The price appears beside the color picker field.
 
 ### Field Width
 
 Controls how wide the color picker field appears relative to the available option area.
 
-- **33%** — narrow column
-- **50%** — half-width column
-- **66%** — wider column
-- **100%** — full width (default for most layouts)
+* **33%** — narrow column
+* **50%** — half-width column
+* **66%** — wider column
+* **100%** — full width (default for most layouts)
 
 ### Class (Unique)
 
@@ -89,4 +86,4 @@ Use this tab to control the visibility of the Color Picker option. You can show 
 
 ## Get Support 👇
 
-If you experience any issues while configuring the Color Picker option, reach out to the WowApps support team via the in-app chat or email <a href="mailto:support@wowapps.io">**support@wowapps.io**</a>. You can also reach the dedicated manager at <a href="mailto:nayeem@wowapps.io">**nayeem@wowapps.io**</a>.
+If you experience any issues while configuring the Color Picker option, reach out to the WowApps support team via the in-app chat or email [**support@wowapps.io**](mailto:support@wowapps.io). You can also reach the dedicated manager at [**nayeem@wowapps.io**](mailto:nayeem@wowapps.io).

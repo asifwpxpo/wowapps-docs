@@ -45,38 +45,36 @@ Imagine, Max is running a cup cake store and his customers want to buy his most 
 
 For example, one of Max's customers wants to order a Dozen Cup Cake Box from his online store but among his 9 flavours he loves Tiramisu and Strawberry Lane flavours more. So he wants to order them multiple in numbers and the rest of them he wants to order only 1.
 
- Like below:
+Like below:
 
-![Quantity Selector - How to setup with real use case](images/quantity-selector-example.png)
+![Quantity Selector - How to setup with real use case](../.gitbook/assets/quantity-selector-example.png)
 
 Here with the help of WowOption’s quantity selector Max’s customer can easily choose the numbers of the flavours that he wants. It’s super easy to understand and order. Let’s see how Max can set it up on his store using WowOptions.
 
 ### Step 1
 
-- At first you need to create a new option set from the option types that supports the feature - QUANTITY SELECTOR. For here in this case, we are using image swatches to showcase flavours of the cup cakes and the feature.
-- Add all the flavour names and images that you have and want to show to your customer.
+* At first you need to create a new option set from the option types that supports the feature - QUANTITY SELECTOR. For here in this case, we are using image swatches to showcase flavours of the cup cakes and the feature.
+* Add all the flavour names and images that you have and want to show to your customer.
 
-![Quantity Selector - Step 1](images/quantity-selector-step-1.png)
+![Quantity Selector - Step 1](../.gitbook/assets/quantity-selector-step-1.png)
 
 ### Step 2
 
 Now, scroll a bit down and you will see the main options of selecting the quantities.
 
-- At the first, you’ll have a default option of minimum selection and maximum selection. Here it means the number of options or items that your customer can choose. In this case, one customer can choose a maximum 9 flavours of cup cakes.
-
-- Second, enable the option: “Let shoppers set a quantity for each option”. Here, it means the exact same thing - your customer can select the minimum and maximum number of quantities for each individual item. For this case, set the quantity for each flavor that one can pick maximum or minimum.
-
-- Third, enable the option: “Limit the combined total”. Here, it means how many total items one can select or have in all the items with all the variations, here in this case if they choose a dozen box of cup cake then they can select maximum 12 cup cakes.
+* At the first, you’ll have a default option of minimum selection and maximum selection. Here it means the number of options or items that your customer can choose. In this case, one customer can choose a maximum 9 flavours of cup cakes.
+* Second, enable the option: “Let shoppers set a quantity for each option”. Here, it means the exact same thing - your customer can select the minimum and maximum number of quantities for each individual item. For this case, set the quantity for each flavor that one can pick maximum or minimum.
+* Third, enable the option: “Limit the combined total”. Here, it means how many total items one can select or have in all the items with all the variations, here in this case if they choose a dozen box of cup cake then they can select maximum 12 cup cakes.
 
 Like the screenshot below:
 
-![Quantity Selector - Step 2](images/quantity-selector-step-2.png)
+![Quantity Selector - Step 2](../.gitbook/assets/quantity-selector-step-2.png)
 
 ### Step 3
 
 At last do not forget to add the option set to your products and save it to see it on your store front successfully.
 
-![Quantity Selector - Step 3](images/quantity-selector-step-3.png)
+![Quantity Selector - Step 3](../.gitbook/assets/quantity-selector-step-3.png)
 
 This is how you can successfully add the quantity selector options to your product and help your customer to add their own chosen options that they want to like & You can charge them as per quantity. This is how it works.
 

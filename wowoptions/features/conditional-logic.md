@@ -1,4 +1,4 @@
-# Conditional Logic
+# Conditional Logic Guide
 
 Conditional Logic in WowOptions helps Shopify merchants show or hide product option fields based on what customers select. Instead of showing every option at once, merchants can create a cleaner and smarter product page where customers only see the fields that are relevant to their choices.
 
@@ -10,8 +10,7 @@ Use Conditional Logic when your product has options that depend on previous cust
 
 For example, a custom hoodie store can first ask:
 
-Do you want personalization?
-If the customer selects Yes, then the store can show:
+Do you want personalization? If the customer selects Yes, then the store can show:
 
 * Name text field
 * Font style
@@ -58,7 +57,7 @@ Before publishing, preview the option set to make sure the field appears or hide
 
 ## How to setup with real use case
 
-![Conditional Logic - How to setup with real use case](images/conditional-logic-example.png)
+![Conditional Logic - How to setup with real use case](../.gitbook/assets/conditional-logic-example.png)
 
 ## Need Help with Setup?
 

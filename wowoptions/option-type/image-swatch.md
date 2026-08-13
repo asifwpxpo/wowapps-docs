@@ -2,17 +2,17 @@
 
 The **Image Swatch** option lets customers choose an option using images, such as selecting patterns, styles, or product variations.
 
-![Select Image Swatch Option](../wow-options/docs/option-type/image-switch/wowoptions-select-image-swatch-option.webp)
+![Select Image Swatch Option](../.gitbook/assets/wowoptions-select-image-swatch-option.webp)
 
 Here's an example of how the Image Swatch appears on the frontend
 
-![Image Swatch Option Example](../wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-example.webp)
+![Image Swatch Option Example](../.gitbook/assets/wowoptions-image-swatch-option-example.webp)
 
 ## General Tab (Basic Settings)
 
 This tab controls the core configuration of the Image Swatch field, including the label, help text, selectable options, pricing behavior, and selection limits.
 
-![General Settings for Image Swatch Option](../wow-options/docs/option-type/image-switch/wowoptions-general-settings-for-image-swatch-option.webp)
+![General Settings for Image Swatch Option](../.gitbook/assets/wowoptions-general-settings-for-image-swatch-option.webp)
 
 ### Required
 
@@ -30,9 +30,9 @@ The visible name shown to customers (for example: “Choose Color”, “Select 
 
 Short instructional text shown to guide customers. For examples:
 
-- Select your preferred color
-- Choose a design option
-- Pick one or more styles
+* Select your preferred color
+* Choose a design option
+* Pick one or more styles
 
 The position of this help text can be controlled from the **Style Tab**.
 
@@ -40,17 +40,17 @@ The position of this help text can be controlled from the **Style Tab**.
 
 Defines the selectable swatch options shown to customers. Each option represents a visual choice displayed with an image. Each option includes the following settings:
 
-- **Title:** The name displayed under or beside the image swatch.
-- **Image:** Upload or assign the image representing the option.
-- **Price Type:** Determines how the option affects the product price.
-- **Price:** Defines the additional cost applied when the option is selected.
-- **Default:** Sets the option as the default selected value when the product page loads.
+* **Title:** The name displayed under or beside the image swatch.
+* **Image:** Upload or assign the image representing the option.
+* **Price Type:** Determines how the option affects the product price.
+* **Price:** Defines the additional cost applied when the option is selected.
+* **Default:** Sets the option as the default selected value when the product page loads.
 
 Available options include:
 
-- **Fixed** — adds a fixed amount to the product price
-- **Percentage** — adds a percentage based on the product price
-- **No Cost** — selecting the option does not change the product price
+* **Fixed** — adds a fixed amount to the product price
+* **Percentage** — adds a percentage based on the product price
+* **No Cost** — selecting the option does not change the product price
 
 Use the **Add Option Value** button to add more swatch options.
 
@@ -58,8 +58,8 @@ Use the **Add Option Value** button to add more swatch options.
 
 Allows you to limit the quantity associated with each selected option.
 
-- **Min Quantity:** Defines the minimum quantity allowed for the option.
-- **Max Quantity:** Defines the maximum quantity allowed.
+* **Min Quantity:** Defines the minimum quantity allowed for the option.
+* **Max Quantity:** Defines the maximum quantity allowed.
 
 ### Allow Multiple
 
@@ -69,59 +69,59 @@ Allows customers to select multiple image swatches instead of only one.
 
 Limits the total quantity across all selected swatch options.
 
-- **Min Quantity:** Defines the minimum total quantity allowed.
-- **Max Quantity:** Defines the maximum total quantity allowed.
+* **Min Quantity:** Defines the minimum total quantity allowed.
+* **Max Quantity:** Defines the maximum total quantity allowed.
 
 ### Number of Selection Allowed
 
 Controls how many swatches a customer can select.
 
-- **Minimum Selection:** Defines the minimum number of options that must be selected.
-- **Maximum Selection:** Defines the maximum number of options that can be selected.
+* **Minimum Selection:** Defines the minimum number of options that must be selected.
+* **Maximum Selection:** Defines the maximum number of options that can be selected.
 
 ## Style Tab (Layout & Appearance)
 
 This tab controls how the Image Swatch field appears on the product page, including help text placement, swatch style, layout width, and custom image dimensions.
 
-![Image Swatch Option Style Tab](../wow-options/docs/option-type/image-switch/wowoptions-image-swatch-option-style-tab.webp)
+![Image Swatch Option Style Tab](../.gitbook/assets/wowoptions-image-swatch-option-style-tab.webp)
 
 ### Help Text Position
 
 Controls where the help text appears relative to the field.
 
-- **Below Label:** Help text appears under the field label.
-- **Below Field:** Help text appears below the swatch options.
-- **Tooltip:** Help text appears inside an information icon.
+* **Below Label:** Help text appears under the field label.
+* **Below Field:** Help text appears below the swatch options.
+* **Tooltip:** Help text appears inside an information icon.
 
 ### Display Style
 
 Controls how the swatches are displayed.
 
-- **Image with Title:** Displays the image along with its option title.
-- **Only Image:** Displays only the image without showing the title.
+* **Image with Title:** Displays the image along with its option title.
+* **Only Image:** Displays only the image without showing the title.
 
 ### Field Width
 
 Controls how wide the swatch field appears in the product options layout.
 
-- **33%** — narrow column
-- **50%** — half width
-- **66%** — wider column
-- **100%** — full width
+* **33%** — narrow column
+* **50%** — half width
+* **66%** — wider column
+* **100%** — full width
 
 ### Enable Custom Dimensions
 
 Allows you to manually control the size and shape of the swatch images.
 
-- **Width (px):** Defines the width of each swatch image.
-- **Height (px):** Defines the height of each swatch image.
-- **Border Radius (px):** Controls how rounded the image corners appear.
+* **Width (px):** Defines the width of each swatch image.
+* **Height (px):** Defines the height of each swatch image.
+* **Border Radius (px):** Controls how rounded the image corners appear.
 
 Example:
 
-- Width: 80 px
-- Height: 80 px
-- Border Radius: 8 px
+* Width: 80 px
+* Height: 80 px
+* Border Radius: 8 px
 
 ### Class (Unique)
 
@@ -133,4 +133,4 @@ Use this tab to control the visibility of the Image Swatch option. You can show 
 
 ## Get Support 👇
 
-If you experience any issues while configuring the Image Swatch option, reach out to the WowApps support team via the in-app chat or email <a href="mailto:support@wowapps.io">**support@wowapps.io**</a>. You can also reach the dedicated manager at <a href="mailto:nayeem@wowapps.io">**nayeem@wowapps.io**</a>.
+If you experience any issues while configuring the Image Swatch option, reach out to the WowApps support team via the in-app chat or email [**support@wowapps.io**](mailto:support@wowapps.io). You can also reach the dedicated manager at [**nayeem@wowapps.io**](mailto:nayeem@wowapps.io).

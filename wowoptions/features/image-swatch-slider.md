@@ -24,7 +24,7 @@ This feature is especially useful for print-on-demand stores, fashion stores, gi
 
 Suppose Max sells perfume in his store. But, the number of perfumes are too many but he wants to showcase it in one section inside the product page. Now, he can easily do that using WowOptions. Like below:
 
-![Image Swatch Slider - How to setup with real use case](images/image-swatch-slider-example.png)
+![Image Swatch Slider - How to setup with real use case](../.gitbook/assets/image-swatch-slider-example.png)
 
 ### Step 1
 
@@ -34,21 +34,21 @@ Then add your product/item details, like name, images, price etc. to the option.
 
 Then click on the advanced setting button.
 
-![Image Swatch Slider - Step 1](images/image-swatch-slider-step-1.png)
+![Image Swatch Slider - Step 1](../.gitbook/assets/image-swatch-slider-step-1.png)
 
 ### Step 2
 
-- At the advanced settings page you will see an option “Show as Slider”. Enable it.
-- Add the numbers of rows and number of products/items that you want to add.
-- Then select the design or navigation style of the slider by simply selecting the type of the navigation. Like below:
+* At the advanced settings page you will see an option “Show as Slider”. Enable it.
+* Add the numbers of rows and number of products/items that you want to add.
+* Then select the design or navigation style of the slider by simply selecting the type of the navigation. Like below:
 
-![Image Swatch Slider - Step 2](images/image-swatch-slider-step-2.png)
+![Image Swatch Slider - Step 2](../.gitbook/assets/image-swatch-slider-step-2.png)
 
 ### Step 3
 
 Do not forget to add this option to any specific or all products and to save it.
 
-![Image Swatch Slider - Step 3](images/image-swatch-slider-step-3.png)
+![Image Swatch Slider - Step 3](../.gitbook/assets/image-swatch-slider-step-3.png)
 
 ## Need Help with Setup?
 

@@ -1,16 +1,18 @@
 # Table of contents
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [FAQ](faq.md)
 
 ## Core Setup
+
 * [Create Option Sets](create-option-sets.md)
 * [Conditional Logic](conditional-logic.md)
 * [Global Style](global-style.md)
 * [Settings](settings.md)
 
 ## Option Types
+
 * [Overview](option-type.md)
   * [Button](option-type/button.md)
   * [Checkbox](option-type/checkbox.md)
@@ -37,10 +39,11 @@
   * [Upload](option-type/upload.md)
 
 ## Performance
+
 * [Analytics](analytics.md)
 
-
 ## Features
+
 * [Quantity Selector](features/quantity-selector.md)
 * [Add Option Value Description](features/add-option-value-description.md)
 * [View Details Link](features/view-details-link.md)
