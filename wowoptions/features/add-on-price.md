@@ -68,13 +68,17 @@ Max has already created an option set for his custom poster product.
 
 To add an extra charge, click on the option where you want to apply the additional price. Then, enter the amount in the **Add Price** field.
 
-Like the screenshot below: ![Add-on Price - Step 1](../.gitbook/assets/add-on-price-step-1.png)
+Like the screenshot below:&#x20;
+
+<figure><img src="../.gitbook/assets/add-on-price-step-1.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
 Click the Save button to save the option.
 
-See the attached screenshot below. ![Add-on Price - Step 2](../.gitbook/assets/add-on-price-step-2.png)
+See the attached screenshot below.&#x20;
+
+<figure><img src="../.gitbook/assets/add-on-price-step-2.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3
 
