@@ -73,7 +73,9 @@ For example, Max sets the price to $2.00 per character and enables a minimum cha
 
 The customer will not be able to enter more than 10 characters, ensuring the pricing rule and character limit are applied correctly.
 
-See the attached screenshot below. ![Character Based Pricing - Step 3](../.gitbook/assets/character-based-pricing-step-3.png)
+See the attached screenshot below.&#x20;
+
+<figure><img src="../.gitbook/assets/character-based-pricing-step-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Need Help with Setup?
 
