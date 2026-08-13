@@ -62,7 +62,9 @@ Like the screenshot below:
 
 When Max clicks on Applies, he will see three options to choose from. He can assign the option set to **Specific Products**, **Specific Collections**, or **All Products**, depending on where he wants to display the custom option set.
 
-See the attached screenshot below. ![Live Preview - Step 2](../.gitbook/assets/live-preview-step-2.png)
+See the attached screenshot below.&#x20;
+
+<figure><img src="../.gitbook/assets/live-preview-step-2.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3
 
