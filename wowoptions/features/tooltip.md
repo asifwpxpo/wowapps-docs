@@ -66,7 +66,9 @@ Scroll down to the bottom of the option settings. Here, you will find the Help T
 
 Then, select Tooltip from the Help Text Position dropdown.
 
-Like the screenshot below ![Tooltip - Step 1](../.gitbook/assets/tooltip-step-1.png)
+Like the screenshot below&#x20;
+
+<figure><img src="../.gitbook/assets/tooltip-step-1.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2
 
