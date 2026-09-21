@@ -51,6 +51,7 @@
 * [Switch](features/switch.md)
 * [Cross Product Links](features/cross-product-links.md)
 * [Image Swatch Slider](features/image-swatch-slider.md)
+* [Change Product Image on Selection](features/change-product-image-on-selection.md)
 * [Color Swatch Slider](features/color-swatch-slider.md)
 * [Tooltip](features/tooltip.md)
 * [Pop Up](features/pop-up.md)
