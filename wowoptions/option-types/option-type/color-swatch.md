@@ -2,7 +2,7 @@
 
 The **Color Swatch** option lets customers select a color from predefined color options.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-select-color-swatch-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-select-color-swatch-option.webp" alt="" /><figcaption></figcaption></figure>
 
 Here's an example of how the Color Swatch appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Color Swatch appears on the frontend
 
 This tab controls the Color Swatch field configuration, including the label, help text, selectable color options, pricing behavior, and selection limits.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-color-swatch-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-color-swatch-option.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Required
 
@@ -81,7 +81,7 @@ Controls how many colors a customer can select.
 
 This tab controls how the Color Swatch field appears on the product page, including help text placement, swatch display style, field width, and custom dimensions.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-color-swatch-option-style-tab.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-color-swatch-option-style-tab.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Help Text Position
 

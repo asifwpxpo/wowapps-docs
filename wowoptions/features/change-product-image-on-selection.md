@@ -86,7 +86,7 @@ For example:
 
 Like the screenshot below.
 
-<figure><img src="../.gitbook/assets/Screenshot_23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_23.png" alt="" /><figcaption></figcaption></figure>
 
 #### Step 2
 
@@ -104,7 +104,7 @@ After adding the images, save your changes.
 
 See the attached screenshot below.
 
-<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1.png" alt="" /><figcaption></figcaption></figure>
 
 #### Step 3
 
@@ -120,7 +120,7 @@ If the customer clears the selection, the original product image will appear aga
 
 See the attached screenshot below.
 
-<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2.png" alt="" /><figcaption></figcaption></figure>
 
 #### Step 4
 
@@ -132,7 +132,7 @@ After assigning the product, click Save to save the changes.
 
 See the attached screenshot below.
 
-<figure><img src="../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_3.png" alt="" /><figcaption></figcaption></figure>
 
 #### Step 5
 
@@ -140,7 +140,7 @@ Go back to the Product Options page and click Save to save the entire option set
 
 See the attached screenshot below.
 
-<figure><img src="../.gitbook/assets/Screenshot_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_4.png" alt="" /><figcaption></figcaption></figure>
 
 #### Step 6
 
@@ -158,7 +158,7 @@ For example:
 
 If the customer clears the selection, the original product image will be restored.
 
-<figure><img src="../.gitbook/assets/Screenshot_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_5.png" alt="" /><figcaption></figcaption></figure>
 
 Change Product Image on Selection - Step 6
 

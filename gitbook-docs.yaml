@@ -29,3 +29,16 @@ site:
           default: true
           content:
             directory: ./wowoptions
+    - type: section
+      key: section-3
+      title: WowBundles
+      path: wowbundles
+      icon: boxes-stacked
+      children:
+        - type: space
+          key: space-3
+          title: WowBundles
+          path: wowbundles
+          default: true
+          content:
+            directory: ./wowbundle

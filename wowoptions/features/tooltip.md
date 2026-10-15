@@ -68,7 +68,7 @@ Then, select Tooltip from the Help Text Position dropdown.
 
 Like the screenshot below&#x20;
 
-<figure><img src="../.gitbook/assets/tooltip-step-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tooltip-step-1.png" alt="" /><figcaption></figcaption></figure>
 
 ### Step 2
 

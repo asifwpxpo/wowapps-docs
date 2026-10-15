@@ -2,7 +2,7 @@
 
 The **Color Picker** option lets customers choose any color using a color selection tool.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-select-color-picker-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-select-color-picker-option.webp" alt="" /><figcaption></figcaption></figure>
 
 Here's an example of how the Color Picker appears on the frontend
 
@@ -10,7 +10,7 @@ Here's an example of how the Color Picker appears on the frontend
 
 This tab controls the Color Picker field configuration, including the label, help text, pricing behavior, and default color value.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-color-picker-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-color-picker-option.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Required
 
@@ -56,7 +56,7 @@ Defines the default color shown when the product page loads. Customers can chang
 
 This tab controls how the Color Picker field appears on the product page, including help text placement, price position, and field width.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-color-picker-option-style-tab.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-color-picker-option-style-tab.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Help Text Position
 

@@ -94,9 +94,9 @@ You will see the popup button on the product page. When customers click the butt
 
 See the attached screenshot below. &#x20;
 
-<figure><img src="../.gitbook/assets/pop-up-step-5-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pop-up-step-5-2.png" alt="" /><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/pop-up-step-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pop-up-step-5.png" alt="" /><figcaption></figcaption></figure>
 
 ## Need Help with Setup?
 

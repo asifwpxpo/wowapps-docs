@@ -2,7 +2,7 @@
 
 The **Button** option lets customers trigger an action, such as opening a guide, applying a configuration, or starting a customization step.  Here's an example of how the Button appears on the frontend
 
-<figure><img src="../../.gitbook/assets/wowoptions-select-button-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-select-button-option.webp" alt="" /><figcaption></figcaption></figure>
 
 ![Button Option Example](../../.gitbook/assets/wowoptions-button-option-example.webp)
 
@@ -10,7 +10,7 @@ The **Button** option lets customers trigger an action, such as opening a guide,
 
 This tab controls the core configuration of the Button option, including the label, help text, selectable button options, pricing behavior, and selection rules.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-button-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-general-settings-for-button-option.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Required
 
@@ -75,7 +75,7 @@ Example:
 
 This tab controls how the Button options appear on the product page, including help text placement, button layout direction, field width, and custom styling.&#x20;
 
-<figure><img src="../../.gitbook/assets/wowoptions-button-option-style-tab.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wowoptions-button-option-style-tab.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Help Text Position
 

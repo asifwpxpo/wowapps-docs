@@ -48,7 +48,7 @@ Enter the Group Name and Help Text according to your requirements.
 
 Like the screenshot below.&#x20;
 
-<figure><img src="../.gitbook/assets/collapse-step-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collapse-step-1.png" alt="" /><figcaption></figcaption></figure>
 
 ![Collapse - Step 1 (2)](../.gitbook/assets/collapse-step-1-2.png)
 

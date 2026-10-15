@@ -70,7 +70,7 @@ To add an extra charge, click on the option where you want to apply the addition
 
 Like the screenshot below:&#x20;
 
-<figure><img src="../.gitbook/assets/add-on-price-step-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-on-price-step-1.png" alt="" /><figcaption></figcaption></figure>
 
 ### Step 2
 
@@ -78,7 +78,7 @@ Click the Save button to save the option.
 
 See the attached screenshot below.&#x20;
 
-<figure><img src="../.gitbook/assets/add-on-price-step-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-on-price-step-2.png" alt="" /><figcaption></figcaption></figure>
 
 ### Step 3
 
