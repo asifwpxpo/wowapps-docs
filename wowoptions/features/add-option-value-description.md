@@ -47,7 +47,7 @@ Like Below:
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/add-option-value-description-example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-option-value-description-example.png" alt="" /><figcaption></figcaption></figure>
 
 Here with the help of WowOption’s Option Value Description Max’s customer can easily see the details of each pizza type and decide what to select. It’s super easy to understand and order. Let’s see how Max can set it up on his store using WowOptions.
 

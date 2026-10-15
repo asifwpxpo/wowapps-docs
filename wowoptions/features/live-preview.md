@@ -64,7 +64,7 @@ When Max clicks on Applies, he will see three options to choose from. He can ass
 
 See the attached screenshot below.&#x20;
 
-<figure><img src="../.gitbook/assets/live-preview-step-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/live-preview-step-2.png" alt="" /><figcaption></figcaption></figure>
 
 ### Step 3
 

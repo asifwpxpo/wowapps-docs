@@ -75,7 +75,7 @@ The customer will not be able to enter more than 10 characters, ensuring the pri
 
 See the attached screenshot below.&#x20;
 
-<figure><img src="../.gitbook/assets/character-based-pricing-step-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/character-based-pricing-step-3.png" alt="" /><figcaption></figcaption></figure>
 
 ## Need Help with Setup?
 

@@ -12,7 +12,7 @@ Here’s an example of how the Checkbox appears on the frontend
 
 This tab controls the core configuration of the Checkbox field, including the label, help text, selectable options, pricing behavior, and selection limits.&#x20;
 
-<figure><img src="../.gitbook/assets/wowoptions-general-settings-for-checkbox-option.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wowoptions-general-settings-for-checkbox-option.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Required
 
@@ -81,7 +81,7 @@ Controls how many checkbox options customers can select.
 
 This tab controls how the Checkbox field appears on the product page, including help text placement, layout columns, option image style, field width, and custom styling.&#x20;
 
-<figure><img src="../.gitbook/assets/wowoptions-checkbox-option-style-tab.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wowoptions-checkbox-option-style-tab.webp" alt="" /><figcaption></figcaption></figure>
 
 ### Help Text Position
 
