@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: WowApps
+  title: WowBundle
   structure:
     - type: section
       key: section-1
