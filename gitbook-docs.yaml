@@ -3,37 +3,11 @@ site:
   title: WowBundle
   structure:
     - type: section
-      key: section-1
-      title: WowETA
-      path: woweta
-      icon: truck
-      default: true
-      children:
-        - type: space
-          key: space-1
-          title: WowETA
-          path: woweta
-          default: true
-          content:
-            directory: ./woweta
-    - type: section
-      key: section-2
-      title: WowOptions
-      path: wowoptions
-      icon: sliders
-      children:
-        - type: space
-          key: space-2
-          title: WowOptions
-          path: wowoptions
-          default: true
-          content:
-            directory: ./wowoptions
-    - type: section
       key: section-3
       title: WowBundles
       path: wowbundles
       icon: boxes-stacked
+      default: true
       children:
         - type: space
           key: space-3
