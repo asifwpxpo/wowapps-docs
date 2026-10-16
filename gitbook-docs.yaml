@@ -3,29 +3,17 @@ site:
   title: WowApps
   structure:
     - type: section
-      key: section-2
-      title: WowOptions
-      path: wowoptions
-      icon: sliders
-      default: true
-      children:
-        - type: space
-          key: space-2
-          title: WowOptions
-          path: wowoptions
-          default: true
-          content:
-            directory: ./wowoptions
-    - type: section
       key: section-3
       title: WowBundles
       path: wowbundles
       icon: boxes-stacked
+      default: true
       children:
         - type: space
           key: space-3
           title: WowBundles
           path: wowbundles
           default: true
+          draft: true
           content:
             directory: ./wowbundle
