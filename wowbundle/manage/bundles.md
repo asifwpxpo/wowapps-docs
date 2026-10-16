@@ -1,25 +1,53 @@
 # Manage Bundles
 
-Find, organize and control your offers from the Bundles page.
+The **Bundles** page lists your saved offers. From here, you can edit an offer, change its status or make a copy.
 
-## Find an offer
+## Find a Bundle
 
-Use the **All**, **Draft**, **Active** and **Paused** views. Search by name or choose a type filter: **All types**, **Quantity breaks**, **Buy X get Y** or **Fixed bundle**.
+Open **WowBundle > Bundles**. Use the search field to find a bundle by name.
 
-Sort by **Newest first**, **Oldest first**, **Name A–Z** or **Name Z–A**. Use pagination for longer lists.
+The status tabs help you narrow the list:
 
-## Publish, pause or resume
+- **All:** Show every bundle.
+- **Draft:** Show bundles that have not been published.
+- **Active:** Show published bundles.
+- **Paused:** Show bundles you have stopped.
 
-A **Draft** is available for editing before publication. **Active** offers can appear when targeting and theme setup match. **Paused** offers are suspended.
+Use the type filter to show **Quantity breaks**, **Buy X get Y** or **Fixed bundle** offers. Use the sort menu to order the list by name or creation date.
 
-Use the available **Publish**, **Pause** or **Resume** control for the current state. Reload the list to confirm the change.
+![Full WowBundle Bundles screen with search, status tabs and type filter marked.](../assets/annotated/bundle-list.png)
 
-After pausing an offer, check any open cart again after recalculation. An already-open cart may still show an earlier display state.
+1. Search for a bundle.
+2. Choose a status tab.
+3. Open the bundle type filter.
 
-## Duplicate a bundle
+## Edit a Bundle
 
-Open the row's actions and choose **Duplicate**. Review the resulting Draft's name, products, quantities and discounts before publishing.
+1. Find the bundle in the list.
+2. Open its actions menu and select **Edit**.
+3. Make your changes in the editor.
+4. Click **Save**.
 
-## Delete a bundle
+## Publish, Pause or Resume
 
-The row actions include **Delete**. Review the confirmation and recovery implications before proceeding. Pause an offer instead when you only want to stop showing it temporarily.
+Open a bundle and use the action shown for its current status:
+
+- **Publish:** Make a draft offer active.
+- **Pause:** Stop an active offer without deleting it.
+- **Resume:** Make a paused offer active again.
+
+An active offer appears on products that match its **Applies to** setting. The WowBundle app embed must also be enabled. See [Theme Setup](../getting-started/theme-setup.md).
+
+## Duplicate a Bundle
+
+Open the bundle's actions menu and select **Duplicate**. This creates a draft copy. Change its name, products or prices before publishing it.
+
+![Full Bundles screen with the actions menu open.](../assets/annotated/bundle-actions.png)
+
+Use the marked actions menu to edit, duplicate, pause or delete an offer.
+
+## Delete a Bundle
+
+Select **Delete** from the actions menu. Read the message before you confirm.
+
+Use **Pause** if you want to stop the offer and use it again later.

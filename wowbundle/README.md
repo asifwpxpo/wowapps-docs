@@ -1,16 +1,20 @@
-# Introduction
+# WowBundle
 
-Welcome to WowBundle! Build bundle offers that help shoppers choose more of the products they love.
+WowBundle adds bundle offers to your Shopify product pages. Offer several quantities, combine products, or include a gift.
 
-Use WowBundle to create quantity breaks, combine different products, add gifts and offer optional extras on your product pages.
+## Choose an offer
 
-## What can you create?
+- **Quantity breaks:** sell more of the same product at a set quantity and price.
+- **Buy X Get Y:** choose what customers buy and what they get, with separate prices for each.
+- **Mixed-product bundles:** sell a fixed set of different products together.
+- **Gifts and upsells:** add a gift or an extra product to an offer.
 
-- **Quantity breaks:** offer a better price when customers buy more of the same product.
-- **Buy X Get Y:** combine the items customers buy with the items they receive.
-- **Mixed-product bundles:** bring complementary products together in one offer.
-- **Gifts and upsells:** add rewards or an optional product to a purchase.
+## Get started
 
-Customize your offer in three tabs: **Offer**, **Design** and **Advanced**. Manage your bundles and review their activity from the app navigation.
+Install WowBundle from the [Shopify App Store]({{WOWBUNDLE_APP_STORE_URL}}), then open **Apps → WowBundle** in Shopify admin.
 
-Ready to get started? [Enable WowBundle in your theme](getting-started/theme-setup.md), then [create your first bundle](getting-started/create-first-bundle.md).
+1. [Set up WowBundle in your theme](getting-started/theme-setup.md).
+2. [Create your first bundle](getting-started/create-first-bundle.md).
+3. [Check the offer before launch](getting-started/launch-checklist.md).
+
+Use **Offer** to choose products, quantities and discounts. Use **Design** to change the appearance, and **Advanced** for price display and checkout options.

@@ -1,15 +1,33 @@
-# Free Shipping Add-ons
+# Free Shipping
 
-Review the shipping reward separately from your product discount.
+Add a shipping reward to a tier or to your progressive rewards.
 
-Open the relevant tier's **Free shipping** add-on or the shipping reward in Progressive gifts.
+## Add a tier reward
 
-## Configure the display
+Open **Offer** and expand the tier.
 
-Review the label and available **Up to rate** field. Use copy that accurately describes the reward you intend to offer.
+1. Under **Add-ons**, turn on **Free shipping**.
+2. Enter the **Label** customers will see.
+3. Set **Up to rate** to the highest shipping rate covered by the reward. The field shows your store currency. Higher rates stay paid.
+4. Click **Save**.
 
-## Verify the checkout result
+![Free shipping add-on with Label and Up to rate fields.](../assets/annotated/free-shipping-controls.png)
 
-Save the configuration and check checkout with an eligible shipping destination. Compare the charge at and below the qualifying threshold, including any rate cap.
+## Add a progressive reward
 
-If your baseline shipping is already free, use a suitable controlled checkout scenario to establish whether the reward changes anything. Avoid promising a shipping benefit based only on the product-page label.
+Open **Offer > Extras > Progressive gifts** and click **Add reward**.
+
+1. Choose **Free shipping**.
+2. In **Unlock at**, choose the tier that earns the reward.
+3. Enter the **Label** customers will see.
+4. Turn on **Exclude rates over a certain amount** if you want to set a **Max rate**.
+
+![Progressive Free shipping reward with Unlock at, Label, and the optional rate limit controls.](../assets/annotated/progressive-shipping-controls.png)
+
+Under **Icon**, keep the delivery truck or click **Upload** to add your own image up to 500 KB.
+
+Click **Save** when you finish.
+
+See [Progressive Gifts](progressive-gifts.md) for setting up the reward list.
+
+Keep the label clear about any shipping limit or conditions.

@@ -1,35 +1,39 @@
 # FAQ
 
-Find quick answers to common setup and offer questions.
+## 1. Do I need to enable the app embed?
 
-## Do I need the app embed?
+Yes. Enable the WowBundle app embed in your theme and save the change. Keep it enabled even when you use the app block.
 
-Enable the WowBundle embed in the theme you use and save the theme. Keep it enabled when using the optional app block.
+See [Theme Setup](getting-started/theme-setup.md).
 
-## Is the app block required?
+## 2. Do I need to add an app block?
 
-The block is optional when you want explicit placement. It belongs in a compatible product template. See [Theme Setup](getting-started/theme-setup.md).
+The app block is optional. Use it to choose where the bundle appears on your product page.
 
-## Where do I change colors and layout?
+You can change the offer's colors and layout in the bundle's **Design** tab.
 
-Open the bundle's **Design** tab. Theme block settings control placement, not the offer's appearance.
+## 3. Why was a draft created when I chose a design?
 
-## Why did a Draft appear before I published?
+Clicking **Use this design** creates a draft. You can edit it now or return to it from the **Bundles** page. It is not active until you publish it.
 
-Choosing a design creates a Draft so you can return to the configuration later. Check its targeting before publishing.
+## 4. Can customers choose a different variant for each item?
 
-## Can shoppers choose different variants?
+Yes. In a **Volume** tier, turn on **Let customers pick a variant for each item**.
 
-Use **Let customers pick a variant for each item** in a Volume tier, then review the available product variants.
+See [Variant Selection](bundle-settings/variants-inventory.md).
 
-## Does “Round prices to whole numbers” remove every decimal?
+## 5. Does Fixed price set the price of one item?
 
-No. It removes .00 from display; a price such as 19.99 retains its decimals.
+In a **Volume** tier, it sets the total for the tier's quantity. For example, **Price for all 3** is the price of all three items together.
 
-## Why is my gift missing?
+See [Discount Settings](bundle-settings/discounts.md) for the other price choices.
 
-Check the qualifying tier, cart quantity, gift publication and inventory. See [Cart Prices and Missing Gifts](troubleshooting/cart-prices.md).
+## 6. Can I stop a bundle without deleting it?
 
-## Can I pause an offer without deleting it?
+Yes. Open the bundle and click **Pause**. Use **Resume** when you want it active again.
 
-Yes. Use **Pause**, then verify the status in the bundle list. Resume it when you want it active again.
+## 7. Why does a gift have a price in the cart?
+
+The cart may no longer meet the offer's quantity requirement. A gift can stay in the cart at its regular price after a qualifying item is removed.
+
+See [Cart Prices and Missing Gifts](troubleshooting/cart-prices.md).

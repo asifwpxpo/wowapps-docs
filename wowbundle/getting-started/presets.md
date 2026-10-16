@@ -1,23 +1,23 @@
 # Choose a Starting Design
 
-Choose the starting point closest to the offer you want, then adjust its settings.
+A starting design gives you a ready-made layout and sample tiers. Change the products and prices to suit your offer.
 
-| Design | Start here when you want to… |
-| --- | --- |
-| Classic quantity breaks | Offer several quantities of one product |
-| Most popular highlight | Emphasize a preferred tier |
-| Side-by-side cards | Present choices side by side |
-| Buy X, get Y free | Configure bought and bonus quantities |
-| Complete the bundle | Combine complementary products |
-| Progressive gifts | Add rewards at quantity thresholds |
-| Free gift deal | Include a gift with a qualifying tier |
-| Countdown urgency | Start with urgency-focused offer copy |
-| Tiers + checkbox upsell | Offer an optional add-on |
-| Fixed price packs | Start with pack-style choices and review their pricing |
-| Minimal horizontal | Use a compact horizontal presentation |
+## Choose a design
 
-Always review the generated quantities, discount modes, products and targeting. A design name does not replace the settings inside the offer. In particular, review the discount mode for pack offers and do not promise a timed promotion unless you have configured a supported timing mechanism.
+Open **Create bundle** to see the gallery. Each card shows a preview and a **Use this design** button.
 
-![Design-gallery examples for Buy X Get Y, mixed bundles and progressive gifts.](../assets/bogo-mixed-progressive-presets.png)
+- **Classic quantity breaks:** stacked quantity choices.
+- **Most popular highlight:** a highlighted choice with a badge.
+- **Side-by-side cards:** quantity choices next to each other.
 
-Design-gallery examples for Buy X Get Y, mixed bundles and progressive gifts.
+Click **Use this design (1)** below the design you want. WowBundle creates a draft and opens the editor.
+
+![Classic quantity breaks, Most popular highlight and Side-by-side cards with a Use this design button marked.](../assets/annotated/setup-create-design.png)
+
+## Make it your own
+
+In **Offer**, choose the products, then set each tier's quantity and discount. Replace the sample titles and labels with text that matches your prices.
+
+In **Design**, change the layout, colors and spacing. You can keep the starting design's appearance or adjust it to match your store.
+
+[Continue with your first bundle](create-first-bundle.md).

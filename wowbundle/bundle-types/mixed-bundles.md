@@ -1,23 +1,29 @@
 # Mixed-product Bundles
 
-Bring products that work well together into one offer.
+Combine different products in one fixed set. For example, offer a pouch, notebook and pen together.
 
-For example, combine a main product with a matching accessory so shoppers can choose the set together.
+## Add products to the set
 
-## Step 1: Choose Bundle
+Open a tier in **Offer**.
 
-Select **Bundle · Different products** in the tier.
+1. Choose **Bundle** under **Tier type**.
+2. Under **Products in this bundle**, click **Add product** and choose a product.
+3. Set the product's **Quantity** and **Discount**.
 
-## Step 2: Add the components
+Repeat for the other products in the set.
 
-Use **Add product** to choose each product. Set its quantity and discount, then review the available variant selection.
+![Bundle tier showing the Products in this bundle section and a product quantity and percentage discount.](../assets/annotated/types-mixed.png)
 
-## Step 3: Review the total
+Use **Change** to replace a product. Use the remove icon beside a product to take it out of the set. Customers can choose a variant for each product that has several variants.
 
-Check the price of each component and the combined total. Update the title and subtitle so shoppers understand what is included.
+## Set the price
 
-## Step 4: Save and check the cart
+Each product has its own discount. To give the whole set 20% off, choose **% off** and enter **20** for every product.
 
-Save and publish to the intended product pages. Add the complete tier, then remove a component and check how the remaining items are priced.
+Write a **Title** and **Subtitle** that explain what is included. Check the preview's products, quantities and total before saving.
 
-Recheck the offer after changing product options or variants. The **Show price per item** display option does not apply to Bundle tiers.
+## Check the cart
+
+Add the set from a product page. Confirm that each product appears with the right quantity and price.
+
+Remove one product and check the remaining prices. Items may return to their regular prices when the set is incomplete.

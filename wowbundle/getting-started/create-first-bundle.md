@@ -1,33 +1,37 @@
 # Create a Bundle
 
-Start with a design, choose your products and build an offer that fits your store.
+Start with a design, then choose the products, quantities and prices for your offer.
 
-## Step 1: Choose a design
+## Choose a design
 
-Open WowBundle and click **Create bundle**. Choose a starting design using its **Use design** action.
+In Shopify admin, open **Apps → WowBundle**, then click **Create bundle**. Choose a design and click **Use this design (1)**.
 
-Choosing a design creates a Draft. You can return to it from the bundle list even if you leave before publishing.
+This creates a **Draft**. You can return to it later from the bundle list.
 
-![Choose a starting design from the gallery.](../assets/preset-gallery.png)
+![Design gallery with a numbered arrow pointing to Use this design.](../assets/annotated/setup-create-design.png)
 
-Choose a starting design from the gallery.
+## Choose products and tiers
 
-## Step 2: Choose your products
+In **Offer → Applies to**, choose **All products**, **Collections** or **Specific products**. Select the collections or products if needed.
 
-In **Offer → Applies to**, choose **All products**, **Collections** or **Specific products**. Review the selected products before continuing.
+Open a tier and choose its **Tier type**:
 
-## Step 3: Configure the tiers
+- **Volume:** several items of the same product.
+- **Buy X Get Y:** items customers buy, plus items they get.
+- **Bundle:** a set of different products.
 
-Open each tier and choose its type, quantity, products and discount. Select the tier that should be **Selected by default**.
+Set the quantity and discount. Use **Add tier** for another choice, then choose **Selected by default** on the tier you want selected first.
 
-Add more choices with **Add tier**, or start from an existing choice with **Duplicate**.
+[Learn how to set up each bundle type](../bundle-types/overview.md).
 
-## Step 4: Customize the offer
+## Change the appearance
 
-Edit the heading and tier text. Use **Design** for layout, colors and spacing. Use **Advanced** for checkout naming and price-display options.
+Edit each tier's **Title** and **Subtitle** to describe the offer. Open **Design** to choose the layout and colors.
 
-## Step 5: Save and publish
+## Save and publish
 
-Save your changes and review the saved offer. When ready, click **Publish**. Visit an eligible product page and check the offer, cart and checkout summary.
+Click **Save**, then reopen the bundle to check your settings. While it is a **Draft (1)**, it is not yet available to customers. When it is ready, click **Publish (2)**.
 
-Use the [launch checklist](launch-checklist.md) before making a new offer available broadly.
+![Full WowBundle editor with Draft status and Publish marked in the header. Save changes before publishing.](../assets/annotated/setup-publish.png)
+
+Open a product page included in the offer. Choose a tier and add it to the cart. Check the items, quantities and prices using the [launch checklist](launch-checklist.md).

@@ -1,23 +1,52 @@
 # Analytics
 
-See how customers interact with your bundle offers.
+The **Analytics** page shows bundle sales, orders and customer activity. Open **WowBundle > Analytics** to see the results.
 
-Open **Analytics** from WowBundle's navigation. Review the available views, add-to-cart activity, orders, revenue and conversion metrics.
+## Choose a Date Range
 
-## Choose a date range
+Use the date menu to choose **Today**, **Last 7 days**, **Last 30 days** or **Last 90 days**. For a custom period, select the **From** and **To** dates and apply the range.
 
-Use the date-range control to select a preset such as Today, last 7 days or last 90 days. For a custom period, select the From and To dates in the calendar and apply the range.
+![Full WowBundle Analytics screen with the date range and View as table controls marked.](../assets/annotated/analytics-summary.png)
 
-![Use the date range, summary metrics and activity views to explore bundle performance.](../assets/analytics-overview.png)
+1. Choose the date range.
+2. Switch the sales chart to a table.
 
-Use the date range, summary metrics and activity views to explore bundle performance.
+## Sales and Orders
 
-## Explore the results
+The cards at the top show:
 
-Use the available table/chart controls and bundle or tier details to review activity more closely.
+- **Bundle sales:** The value of bundle items when ordered, after discounts, in your store currency. Refunds and cancellations are not subtracted.
+- **Orders:** Orders that contain at least one bundle.
+- **Average order value:** Bundle sales per order.
+- **Conversion rate:** Orders per bundle view.
 
-## Understand differences
+## Sales Over Time
 
-View counts can depend on shopper consent. Check the selected date range and underlying activity before comparing metrics.
+The **Sales over time** chart shows sales during the selected period. Click **View as table** to see the daily numbers.
 
-An add-to-cart event is not a completed order. If orders or revenue do not match your expectations, compare the relevant orders and offer configuration rather than relying on one summary number.
+![Full Analytics screen showing Daily numbers and the View as chart control.](../assets/annotated/analytics-daily-table.png)
+
+Click the marked **View as chart** button to return to the chart.
+
+## From View to Cart
+
+This section shows how customers interact with your offers:
+
+- **Seen:** A bundle appeared on screen.
+- **Added to cart:** A bundle was added to the cart.
+- **Ordered:** A customer placed an order with a bundle.
+
+The view and add-to-cart counts cover visitors who accepted analytics. Orders include all shoppers. Because these counts cover different groups, they may not match.
+
+Adding a bundle to the cart does not count as an order.
+
+## Bundle Performance
+
+Use **Bundle performance** to compare individual offers. The table shows views, cart adds, orders, sales, average order value and conversion for each bundle.
+
+Click **Show tiers** to see the results for each tier inside a bundle. A dash means a value is not available.
+
+![Full Analytics screen with Show tiers and an expanded bundle tier marked.](../assets/annotated/analytics-tiers.png)
+
+1. Expand a bundle with **Show tiers**.
+2. Read the results for its tier.

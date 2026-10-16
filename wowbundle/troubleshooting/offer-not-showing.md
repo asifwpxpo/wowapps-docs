@@ -1,17 +1,30 @@
-# My Offer Is Not Showing
+# Bundle Not Showing
 
-Work through these checks to find why a product page is missing its offer.
+If a bundle is missing from a product page, check its status, products and theme setup.
 
-1. Confirm the bundle is **Active**.
-2. Check **Applies to** against the exact product or collection.
-3. Check product publication, variants and inventory policy.
-4. Confirm you are viewing the intended theme.
-5. Enable the WowBundle embed and save the theme.
-6. If you use an app block, confirm the product uses the template containing that block.
-7. Reload the page and check for another active offer targeting the same product.
+## Check the Bundle Status
 
-## Check the product image
+Open **WowBundle > Bundles**. The bundle must be **Active**. Publish it if it is a draft, or resume it if it is paused.
 
-If the product has no image, add a valid Shopify product image and reload. This can resolve a rendering problem where the product data contains an image URL error.
+## Check the Selected Products
 
-If the problem continues, collect the product, theme, template, offer status and visible error for your app support contact. Do not include passwords or access tokens.
+Open the bundle's **Offer** tab and check **Applies to**.
+
+- For **Specific products**, make sure the product is selected.
+- For **Collections**, make sure the product belongs to a selected collection.
+
+Also check that the product is available on your Online Store and that the required variants are in stock.
+
+## Check the Theme
+
+Open **WowBundle > Settings** and check the app embed. Enable it in the theme you use, then save the theme.
+
+If you use the **WowBundle Bundles** app block, check that it is in the product's template. Keep the app embed enabled too.
+
+See [Theme Setup](../getting-started/theme-setup.md) for the steps.
+
+## Check the Product Page Again
+
+Reload the product page. If more than one active bundle targets the same product, check those offers too.
+
+If the bundle is still missing, share the product link and a screenshot of the bundle settings with support.

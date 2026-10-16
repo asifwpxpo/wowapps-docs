@@ -1,27 +1,38 @@
-# Offer Text and Badges
+# Text, Badges, and Images
 
-Make each choice easy to understand with clear titles, savings text and badges.
+Edit the wording and images in **Offer** to help customers compare your tiers.
 
-## Heading and subheading
+## Content
 
-Use **Heading** to introduce the offer. Add an optional **Subheading** when shoppers need more context. **Bundle name** is for internal identification.
+- **Heading**: The title above the offer.
+- **Subheading (optional)**: A short line below the heading.
+- **Bundle name**: The name used in your bundle list and Shopify discounts.
 
 ## Tier text
 
-Edit **Title**, **Discount label** and **Subtitle**. Keep the wording consistent with the actual quantity, price and included products.
+Expand a tier to edit its text:
 
-Supported fields expose shortcodes such as **{Quantity}**, **{DiscountPercentage}**, **{Saving}** and **{ProductTitle}**. Buy X Get Y also offers **{X}** and **{Y}**. Review the substituted preview after editing.
+- **Title**: The name of the tier, such as “Buy 3”.
+- **Discount label**: The savings text beside the title.
+- **Subtitle**: More detail below the title.
+
+Short codes fill in values for you. Use the codes shown below the fields, such as **{Quantity}**, **{DiscountPercentage}**, **{Saving}**, and **{ProductTitle}**. Buy X Get Y tiers also offer **{X}** and **{Y}**.
+
+For example, “Buy {Quantity}” uses the tier's quantity. Check the preview after editing. The discount label is hidden at 0% off.
 
 ## Badges
 
-Enable the badge and choose **Ribbon**, **Sticker** or **Pill**. Edit the badge text to highlight the choice you want shoppers to notice.
+1. Turn on **Show a badge on this tier**.
+2. Choose a **Badge style**: **Ribbon**, **Sticker**, or **Pill**.
+3. Enter your **Badge text**, such as “Best value”.
 
-![Tier text, shortcodes, badges and add-ons in the Offer editor.](../assets/tier-text-badge-addons.png)
-
-Tier text, shortcodes, badges and add-ons in the Offer editor.
+![Tier badge checkbox, Badge style selector, and Badge text field.](../assets/annotated/tier-text-badge.png)
 
 ## Images
 
-The tier's **Image** controls include **Upload** and **Product image**. Review the available option in your editor and confirm the saved result before publishing.
+1. Under the tier's **Add-ons**, turn on **Image**.
+2. Click **Upload** to choose an image.
 
-A tier image is separate from the Shopify product image. For a missing offer on an imageless product, see [My offer is not showing](../troubleshooting/offer-not-showing.md).
+![Tier Image add-on with the Upload button.](../assets/annotated/tier-image-controls.png)
+
+Click **Save** after making your changes.

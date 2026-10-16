@@ -1,27 +1,22 @@
 # Before You Publish
 
-Take a moment to check the offer from your customers’ point of view.
+Check these details before making your bundle active.
 
-## Check setup
+## Products and Prices
 
-- Confirm the correct theme and saved app embed.
-- Review the product template if you use an app block.
-- Check the products or collections under **Applies to**.
-- Confirm product publication, inventory and variant availability.
+- Choose the right products or collections under **Applies to**.
+- Check each tier's quantity and discount.
+- Check the prices of any variants, gifts or upsells.
+- Make sure the products are available and have stock.
 
-## Check the offer
+## Design
 
-- Review every tier's quantity, price, title, badge and reward.
-- Confirm the default selection.
-- Check text wrapping at a narrow screen width.
-- Save and reopen the bundle to confirm your changes.
+- Check the heading, tier names and badges.
+- Choose the tier that should be selected by default.
+- Check the mobile preview for text that is cut off.
 
-## Check the buying experience
+## Storefront
 
-- Add each important tier and inspect the cart.
-- Change quantities around reward thresholds.
-- Remove a qualifying product and check gifts or linked upsells.
-- Verify the final checkout subtotal, currency, shipping and tax.
-- Check other active promotions that affect the same products.
+Save the bundle and enable the app embed in your theme. After publishing, open a matching product page and try the offer.
 
-When trying an offer on a limited set of products, use **Specific products** rather than publishing it across the whole store.
+Check the items and prices in the cart. Change the quantity to see how the offer changes. For a shipping reward, check the shipping charge at checkout too.

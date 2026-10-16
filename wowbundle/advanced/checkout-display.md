@@ -1,29 +1,22 @@
-# Advanced Settings
+# Checkout and Price Display
 
-Adjust checkout naming and price presentation without changing your offer text.
+Use **Advanced** to change the discount name and how prices appear in your offer.
 
-## Discount name at checkout
+## Checkout
 
-Enter the name you want to use for the discount at checkout. Leave it empty to use the tier title. Save and inspect the resulting checkout summary.
+**Discount name at checkout** is the discount name shown in the cart and at checkout. Enter a name, or leave it empty to use the tier title.
 
-## Hide compare-at price
+## Prices and cart
 
-Enable this option to hide the crossed-out original price. Check that the remaining price and savings text are still clear.
+- **Hide compare-at price**: Hide the crossed-out original price.
+- **Round prices to whole numbers**: Hide “.00” only. For example, 109.00 appears as 109, while 108.80 keeps its decimals.
+- **Show price per item**: Show a price below the total when the quantity is more than one. This is not shown on **Bundle (Different products)** tiers.
+- **Skip the cart**: Send customers straight to checkout when they click Add to cart. See [Direct Checkout](skip-cart.md).
 
-## Round prices to whole numbers
+![Advanced tab with Discount name at checkout and price-display toggles.](../assets/annotated/advanced-display-controls.png)
 
-This display option removes **.00**. For example, 34.00 can display as 34, while 19.99 keeps its decimals.
+1. Set the discount name. 2. Choose the price and cart options.
 
-## Show price per item
+If customers can choose items with different prices, turn off **Show price per item** when a single amount could be confusing.
 
-Use this option to show or hide unit-price text. It is not displayed for Bundle tiers.
-
-## Skip the cart
-
-Enable **Skip the cart** when you want the purchase flow to continue directly to checkout. See [Direct Checkout](skip-cart.md).
-
-Save and reopen the bundle after changing these settings, then check the relevant storefront or checkout view.
-
-![Checkout naming and price-display controls. Duo is the field placeholder shown here.](../assets/advanced-settings.png)
-
-Checkout naming and price-display controls. Duo is the field placeholder shown here.
+Click **Save** after making changes.

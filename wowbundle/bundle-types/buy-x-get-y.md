@@ -1,29 +1,33 @@
 # Buy X Get Y
 
-Create an offer with a quantity customers buy and a quantity they receive.
+Set the items customers buy and the items they get with the purchase. The received items can be free or discounted.
 
-For example, offer “Buy 1, get 1 free” on the same product, or pair a main product with a different bonus product.
+## Choose the received product
 
-## Step 1: Choose Buy X Get Y
+Open a tier and choose **Buy X Get Y** under **Tier type**. Under **What do they get?**, choose:
 
-Open the tier and select **Buy X Get Y · Bonus items**.
+- **Same product (1):** more of the product the customer is buying.
+- **Different product:** a product you select.
 
-## Step 2: Choose the received product
+For **Different product**, choose the product to include.
 
-Under **What do they get?**, select **Same product** or **Different product**. For a different product, select the product shoppers receive.
+## Set the quantities and discounts
 
-## Step 3: Configure X and Y
+- **Customer buys (X) (2):** set the bought **Quantity** and **Discount**.
+- **Customer gets (Y) (3):** set the received **Quantity** and **Discount**.
 
-Set the **Customer buys (X)** quantity and discount. Then set the **Customer gets (Y)** quantity and discount.
+For Y, choose **Free**, **% off**, **Amount off each** or **Fixed price**.
 
-The received item does not have to be free. If you charge for it, update any title that says “free.” The editor warns when the title and received-item price disagree.
+To create “Buy 1, get 1 free,” set X to **1** with **No discount** and Y to **1** with **Free**. The customer receives two items and pays for one.
 
-![Choose the received product and configure the bought and received quantities.](../assets/bogo-x-y-controls.png)
+![Buy X Get Y controls showing Same product, one bought item at No discount, and one received item Free.](../assets/annotated/types-bxgy.png)
 
-Choose the received product and configure the bought and received quantities.
+## Check the title and cart
 
-## Step 4: Review and publish
+Write a **Title** that matches the offer. Only call the received item free when its discount is **Free**.
 
-Use {X} and {Y} in supported title fields, review the combined price, then save and publish.
+For a discounted Y item, check both its label and price on the product page. If it is labeled free, do not use that offer until the wording is corrected.
 
-Check what happens when a customer changes or removes the paid quantity. A lower quantity does not necessarily switch to a lower Buy X Get Y tier. Also review any separate **Free gift** add-on; it is additional to the Y items.
+Save the bundle and check it on a matching product page. Add it to the cart, then remove the bought item. A received item can remain in the cart at its regular price when the offer no longer qualifies.
+
+A tier's **Free gift** is separate from the Y items. [Learn about free gifts](../gifts-upsells/free-gifts.md).

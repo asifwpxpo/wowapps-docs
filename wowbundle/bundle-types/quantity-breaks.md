@@ -1,33 +1,33 @@
 # Quantity Breaks
 
-Give customers a reason to choose a larger quantity of the same product.
+Offer several quantities of the same product, each with its own price. For example, offer one candle at the regular price and two candles at 10% off.
 
-For example, a skincare store can offer one bottle at its regular price, two at a discount and three at a larger discount.
+## Set the quantity and price
 
-![A product-page quantity offer with Single, Duo and Trio choices.](../assets/quantity-storefront.png)
+Open a tier in **Offer**.
 
-A product-page quantity offer with Single, Duo and Trio choices.
+1. Under **Tier type**, choose **Volume**.
+2. Enter the number of items in **Quantity**.
+3. Choose a **Discount type**.
+4. Enter the discount value in **Discount**.
 
-## Step 1: Choose Volume
+- **No discount:** keep the regular price.
+- **% off:** take a percentage off each item.
+- **Amount off each:** take a fixed amount off each item.
+- **Fixed price:** set the total price for the tier's quantity.
 
-Create a quantity design or open an existing tier. Select **Volume · Same product**.
+For **Fixed price**, the field names the full quantity. **Price for all 3** is the total for three items.
 
-## Step 2: Set the quantity and discount
+![Full WowBundle editor showing two candles at 10% off, with a Tk 2,700 total in the preview.](../assets/annotated/types-volume.png)
 
-Enter **Quantity**, then select **No discount**, **% off**, **Amount off each** or **Fixed price**. Enter the value and review the helper text and preview.
+## Add more choices
 
-Repeat for your other tiers. Keep each title consistent with its quantity and price.
+Click **Add tier** for another quantity. Set its quantity, discount and **Title**. Choose **Selected by default** on the tier customers should see selected first.
 
-![Set the quantity, discount and per-item variant selection. The helper amount depends on the selected preview product.](../assets/quantity-tier-pricing.png)
+To let customers mix sizes or colors, turn on **Let customers pick a variant for each item**.
 
-Set the quantity, discount and per-item variant selection. The helper amount depends on the selected preview product.
+## Check the offer
 
-## Step 3: Choose variants and a default
+Save your changes. On the product page, select each tier and check its quantity and total. Add it to the cart, then reduce the quantity to check the new price.
 
-If shoppers should choose each unit's variant, enable **Let customers pick a variant for each item**. Select the tier that should be chosen by default.
-
-## Step 4: Save and review
-
-Save and publish the offer to your intended products. Add a tier to cart, then change the quantity above and below its threshold to check the resulting price.
-
-Learn more about [discount modes](../bundle-settings/discounts.md) and [variant selection](../bundle-settings/variants-inventory.md).
+See [discount settings](../bundle-settings/discounts.md) and [variant selection](../bundle-settings/variants-inventory.md).

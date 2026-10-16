@@ -1,29 +1,37 @@
 # Theme Setup
 
-Enable WowBundle in your theme so matching offers can appear on your product pages.
+Turn on the WowBundle app embed to show active offers on matching product pages. You can also choose where the offer appears with an app block.
 
-## Step 1: Open theme setup
+## Turn on the app embed
 
-Go to **Apps → WowBundle → Settings** in Shopify admin. Under **Theme setup**, use **Turn on embed** to open the theme editor. If the embed is already enabled, the button is **Manage embed**. Check that you are working on the intended theme.
+In Shopify admin, open your theme editor.
 
-## Step 2: Enable the app embed
+1. Open **App embeds** and search for **WowBundle**.
+2. Turn on the **WowBundle** switch.
 
-Open **App embeds**, enable WowBundle and click **Save**. Return to WowBundle Settings to check the embed status.
+Click **Save** to apply the change.
 
-If you change themes, enable the embed in the new theme too.
+Make sure you are editing the theme your customers use. If you switch themes, turn on the embed in the new theme too.
 
-![Theme setup after the embed is enabled. Manage embed reopens the theme settings.](../assets/theme-setup.png)
+![Theme editor App embeds panel with the enabled WowBundle toggle marked.](../assets/annotated/setup-theme-embed.png)
 
-Theme setup after the embed is enabled. Manage embed reopens the theme settings.
+In **WowBundle → Settings → Theme setup**, **On** means the embed is enabled. **Manage embed** reopens the theme editor. These setup buttons open your published theme.
 
-## Step 3: Check your product page
+## Choose the offer's position
 
-Open a product targeted by an active bundle. Automatic placement is designed to show the offer before the theme's Add to cart button.
+With the embed on, offers appear before **Add to cart**. To choose a different position on a compatible product template:
 
-## Optional: Choose another position
+1. Open the product template in the theme editor.
+2. In a section that supports app blocks, choose **Add block → Apps → WowBundle Bundles**.
+3. Drag the block to the position you want.
+4. Preview the product page, then click **Save**.
 
-For more control over placement, add the **WowBundle Bundles** app block to a compatible product template and save the theme. Check which products use that template.
+The image shows the **WowBundle Bundles block (1)** between **Variant picker** and **Buy buttons**.
 
-Keep the embed enabled when using the app block. Use the bundle's **Design** tab to change its appearance; the block is for placement.
+![Product template showing the WowBundle Bundles block between Variant picker and Buy buttons.](../assets/annotated/setup-theme-block.png)
 
-If your offer does not appear, see [My offer is not showing](../troubleshooting/offer-not-showing.md).
+Keep the app embed on when using the block. Edit the offer's products, prices and appearance in WowBundle; the block has no settings for these.
+
+To return to automatic placement, select the block, click **Remove block**, then **Save**. If your theme does not support app blocks, use automatic placement.
+
+[Offer not showing?](../troubleshooting/offer-not-showing.md)

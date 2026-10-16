@@ -1,27 +1,38 @@
 # Design Settings
 
-Choose how your offer looks from the Design tab.
+Use the **Design** tab to change your bundle's layout, colors, and spacing.
 
 ## Layout
 
-Choose **Vertical** for stacked cards or **Horizontal** for side-by-side choices. Preview both at the widths your customers use.
+- **Vertical cards**: Stack the tiers one above another.
+- **Horizontal cards**: Place the tiers side by side.
 
-## Picker style
+### Picker
 
-Choose **None**, **Radio**, **Check**, **Square**, **Arrow**, **Star** or **Switch**. Check that the selected tier is clear.
+Choose how customers select a tier: **None**, **Radio**, **Check**, **Square**, **Arrow**, **Star**, or **Switch**.
+
+![Design settings showing Vertical cards and Horizontal cards with seven Picker styles.](../assets/annotated/design-layout-picker.png)
+
+1. Choose the layout. 2. Choose the picker.
 
 ## Color scheme
 
-Available schemes include Charcoal, Forest, Teal, Ocean, Indigo, Plum, Wine, Red, Orange, Cocoa, Sand and WowBundle green.
+Choose a preset color scheme, or change the individual colors:
 
-For a custom palette, adjust **Accent**, **Selected background**, **Text** and **Badge**. Use **Reset to scheme colors** to return to the selected scheme's colors.
+- **Accent**: The offer's main highlight color.
+- **Selected background**: The background of the selected tier.
+- **Text**: The text color.
+- **Badge**: The badge color.
 
-![Choose a layout, picker and color scheme.](../assets/design-layout-colors.png)
+## Style
 
-Choose a layout, picker and color scheme.
+- **Corner roundness**: How rounded the card corners are.
+- **Breathing space**: The space around the content.
+- **Border width**: The thickness of the borders.
+- **Image size**: The size of images in the offer.
 
-## Shape and spacing
+![Custom color fields and Style sliders for Corner roundness, Breathing space, Border width, and Image size.](../assets/annotated/design-colors-style.png)
 
-Adjust **Corner roundness**, **Breathing space**, **Border width** and **Image size**. Keep text readable and the selected state visible.
+1. Set the colors. 2. Adjust the shape and spacing.
 
-Save your changes, reopen the bundle and check the result on your product page. Theme-block placement settings do not replace these appearance controls.
+Click **Save** when you're happy with the preview. Use [Mobile Preview](mobile-preview.md) to see how the offer fits on a narrow screen.

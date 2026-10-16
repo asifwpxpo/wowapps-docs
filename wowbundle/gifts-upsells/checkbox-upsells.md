@@ -1,25 +1,22 @@
 # Checkbox Upsells
 
-Offer an optional product customers can add alongside their chosen tier.
+Show an optional product below your tiers. Customers tick its checkbox to add it to their order.
 
-For example, let shoppers add a matching accessory without making it part of every bundle.
+## How to add a checkbox upsell
 
-![Checkbox upsell design-gallery example.](../assets/checkbox-upsell-preset.png)
+Open **Offer** and scroll to **Extras**.
 
-Checkbox upsell design-gallery example.
+1. Turn on **Checkbox upsells**.
+2. Choose the **Product**. Use **Change** to replace it.
+3. Enter the percentage in **Discount**. For example, enter 20 for 20% off.
+4. Click **Save**.
 
-## Step 1: Open Checkbox upsells
+![Checkbox upsells enabled with Transit Pouch selected and a 20 percent discount. The preview checkbox is unchecked.](../assets/annotated/checkbox-upsell-controls.png)
 
-Go to **Offer → Extras → Checkbox upsells** and enable the option.
+Use **+ Upsell** to add another optional product.
 
-## Step 2: Choose the add-on
+## Customer choice
 
-Select the product and review its discount, copy and available variant choices.
+The checkbox starts unchecked. Customers can choose a variant, then tick the checkbox to include the extra product.
 
-## Step 3: Save and try both choices
-
-Save the offer. Add it once with the checkbox unselected and once selected. Confirm that the optional product and total match the customer's choice.
-
-Check linked-item behavior when the parent product is removed from cart. Keep the add-on published and available, and recheck its variants after product-option changes.
-
-The tier-level **Upsell** add-on is a separate control from **Extras → Checkbox upsells**. Review the specific control you are using rather than treating them as interchangeable.
+To attach an extra product to one tier, use [Tier Upsells](tier-upsells.md).

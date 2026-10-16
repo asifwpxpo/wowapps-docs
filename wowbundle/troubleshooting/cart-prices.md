@@ -1,21 +1,33 @@
 # Cart Prices and Missing Gifts
 
-Review the current quantity and eligibility before retrying an uncertain purchase.
+A bundle's price can change when a customer changes the quantity or removes a product. Start by checking the items in the cart.
 
-## Check the selected offer
+## The Discount Is Different
 
-Confirm the variant, unit price, tier and actual cart quantity. Changing quantity can change the discount tier. Removing a qualifying product can remove a gift or reprice remaining items.
+Check the selected variants, quantities and discount settings. Some variants may have different prices.
 
-For Buy X Get Y, check the bought and received quantities separately. Do not assume that editing the paid row will switch to a lower offer.
+For **Buy X Get Y**, check **Customer buys (X)** and **Customer gets (Y)** separately. The two groups can have different discounts.
 
-## Check availability
+For a mixed-product bundle, check the discount on each product.
 
-If a gift or upsell is missing, check whether its product is published and available. Review inventory and continue-selling settings.
+## A Gift or Upsell Is Missing
 
-## Refresh after an availability warning
+Check that the customer has selected a tier that includes the item. Then check that the gift or upsell product is available on the Online Store and has stock.
 
-If the page says only part of the quantity was added but the drawer looks empty, reload the cart and inspect its contents before clicking Add again. This helps avoid unintentionally repeating an add.
+A checkbox upsell is optional. The customer must select its checkbox before adding the offer to the cart.
 
-## Compare the checkout summary
+## A Gift Has a Price
 
-Review the final items, discount, currency, shipping and tax. If the total differs from your expectation, capture the selected variants and quantities along with the displayed offer for support.
+Check whether the cart still meets the offer's quantity requirement. A gift can stay in the cart at its regular price after the customer removes a qualifying item or lowers the quantity.
+
+For a half-price or other discounted bonus, check its **Discount** setting. A bonus item is only free when its discount is set to **Free**.
+
+## Only Some Items Were Added
+
+If a stock warning appears, reload the cart before adding the offer again. Check which items are already there to avoid adding them twice.
+
+## The Checkout Total Is Higher
+
+Compare the product subtotal first. Shipping and tax can change the final total. Also check any discount code used at checkout.
+
+If the product subtotal is still wrong, share the product link, selected variants, quantities and screenshots of the offer and cart with support.

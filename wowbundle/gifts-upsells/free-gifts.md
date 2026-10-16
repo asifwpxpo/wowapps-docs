@@ -1,25 +1,23 @@
 # Free Gifts
 
-Add a product gift to a qualifying tier.
+Add a free product to a tier, such as a cloth with a three-item pack.
 
-For example, include an accessory when a customer chooses a larger pack.
+## How to add a free gift
 
-![Free gift design-gallery example.](../assets/free-gift-preset.png)
+### Step 1: Open the tier
 
-Free gift design-gallery example.
+Open your bundle and go to **Offer**. Expand the tier that should include the gift.
 
-## Step 1: Open the qualifying tier
+### Step 2: Choose the gift
 
-In **Offer**, expand the tier that should include the gift.
+1. Under **Add-ons**, turn on **Free gift**.
+2. Choose your product under **Gift**. Use **Change** to replace it.
+3. Enter a short **Label**, such as “Cloth included”.
 
-## Step 2: Add the gift
+![Free gift enabled with Linen Ritual Cloth selected and the Label field beside it.](../assets/annotated/free-gift-controls.png)
 
-Enable **Free gift** and select the gift product. Review the available options and gift copy.
+### Step 3: Save the gift
 
-## Step 3: Save and check qualification
+Click **Save**. Open the product page and choose the tier to see the gift with the offer.
 
-Save the offer. Add the qualifying tier to cart, then reduce its quantity and check that the gift remains eligible.
-
-Keep the gift published and available. Check both product publication and stock when a gift does not appear.
-
-A tier gift is separate from the received Y items in a Buy X Get Y tier.
+To offer gifts at several quantities, use [Progressive Gifts](progressive-gifts.md).

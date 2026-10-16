@@ -1,27 +1,30 @@
 # Discount Settings
 
-Choose the pricing method that matches your offer.
+Choose how the price changes for each tier. Open a **Volume** tier to find **Discount type**.
 
-## No discount
+## Discount type
 
-Use the regular price for the configured quantity.
-
-## % off
-
-Enter the percentage discount. Values above 100% or negative values show validation warnings. Resolve the warning before saving.
-
-## Amount off each
-
-Deduct a fixed amount from each eligible item. For example, two items priced at 20.00 with 5.00 off each total 30.00.
+- **No discount:** use the product price without a bundle discount.
+- **% off:** reduce each item's price by a percentage. Two items priced at 20 each cost 36 with 10% off.
+- **Amount off each:** subtract an amount from every item. Two items priced at 20 each cost 30 with 5 off each.
+- **Fixed price:** set one total for the Volume tier. A quantity of 3 with a fixed price of 45 costs 45 for all three items.
 
 ## Fixed price
 
-For a Volume tier, review the helper describing the price for the tier quantity. For example, setting a two-item tier to 25.00 gives a total of 25.00, rather than 25.00 per item.
+1. Set **Quantity** to the number of items in the pack.
+2. Choose **Fixed price**.
+3. Enter the pack total. For three items, the field reads **Price for all 3**.
 
-Other tier types have their own bought, received or component fields. Check the helper beside the field you are editing.
+![Volume tier with Quantity three, Fixed price and Price for all 3 set to Tk 2,100.](../assets/annotated/settings-fixed-price.png)
 
-## Check the final amount
+## Other bundle types
 
-Percentage allocation can produce a different result from rounding one aggregate calculation. Review the displayed total for the selected variants and compare it with cart and checkout.
+In **Buy X Get Y**, set **Discount** separately under **Customer buys (X)** and **Customer gets (Y)**. Choose **Free** for Y when the received items should cost nothing.
 
-The Advanced setting **Round prices to whole numbers** removes .00 from display.
+In **Bundle**, each product has its own **Discount**. Set each component's discount to get the total you want.
+
+## Check the total
+
+Select the products and variants in the preview, then check the price. If variants have different prices, try more than one combination.
+
+After saving, add the offer to the cart and compare the items and total. See [cart prices](../troubleshooting/cart-prices.md) if the amount is unexpected.

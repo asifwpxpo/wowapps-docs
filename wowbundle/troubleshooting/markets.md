@@ -1,9 +1,20 @@
-# Country and Currency Previews
+# Country and Currency Preview
 
-Use preview selections to inspect presentation, then check the real shopping experience.
+The bundle editor lets you preview an offer for a product and country. The available countries and currencies depend on your store.
 
-Choose the preview product and country in the editor to review the available display for that context. Country options and currencies depend on your store.
+## Change the Preview
 
-Before launching an offer in another market, verify product availability, presentment currency, shipping and tax on the actual storefront and checkout.
+Open a bundle in WowBundle, then use the selectors above its preview:
 
-Do not treat the editor preview alone as confirmation of exchange-rate calculations or market eligibility. If a helper and preview show different currencies, inspect the intended market before publishing the offer.
+1. Choose a product.
+2. Choose a country.
+
+![Full WowBundle Offer screen with the preview product and country selectors marked.](../assets/annotated/preview-country.png)
+
+The preview helps you check the offer's text and prices. Changing the preview does not change your store's market settings.
+
+## Check Your Storefront
+
+Open the product page in the market you want to use. Check the currency, product availability and final checkout total.
+
+If a price looks different, check your Shopify market settings and the selected variant's price.

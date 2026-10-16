@@ -1,31 +1,25 @@
 # Variant Selection
 
-Let customers choose the variant for each item in a quantity tier.
+Let customers choose a size, color or other variant for each item in a quantity tier.
 
-## Step 1: Enable per-item selection
+## Let customers pick a variant for each item
 
-Open a Volume tier and enable **Let customers pick a variant for each item**.
+Open a **Volume** tier in **Offer**. Turn on **Let customers pick a variant for each item (1)**, then click **Save**.
 
-![Enable the per-item variant picker beneath the tier pricing controls.](../assets/quantity-tier-pricing.png)
+Customers can now use a separate **variant selector (2)** for each item within the selected tier.
 
-Enable the per-item variant picker beneath the tier pricing controls.
+![Enabled per-item variant checkbox beside a preview with three separate variant selectors.](../assets/annotated/settings-variants.png)
 
-## Step 2: Save and preview
+## Check variant prices
 
-Save the offer and open a product with multiple variants. Choose the variants customers should be able to combine.
+Open a product page with several variants. Choose a different variant for each item and add the tier to the cart. Check the variant names, quantities and prices.
 
-![Per-item variant choices appear within the selected tier.](../assets/quantity-widget-preview.png)
+If variants have different prices, the combined total can change with the selection. For example, variants priced at 20 and 30 total 45 with 10% off.
 
-Per-item variant choices appear within the selected tier.
+## Check availability
 
-## Step 3: Check the cart
+Keep the products and variants in your offer available in Shopify. Check their stock, sales channels and selling settings.
 
-Add the tier and confirm each variant, quantity and price. If variant prices differ, check the combined total too.
+After changing product options or variants, check any bundles, gifts and upsells that use them. Open the product page again to make sure customers can choose the intended items.
 
-## Keep availability current
-
-Review Shopify publication, inventory and continue-selling settings for the products in your offer. After changing stock, reload the product page before checking availability.
-
-Changing product options can replace variant IDs. Recheck existing gifts, upsells and mixed bundles after such changes.
-
-A product appearing in an editor selector does not necessarily mean it is available for purchase in every storefront or market.
+A product listed in the editor may not be available in every storefront or market. See [markets and currencies](../troubleshooting/markets.md).

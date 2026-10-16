@@ -1,21 +1,23 @@
 # Choose Products
 
-Control which product pages can show your bundle with Applies to.
+Use **Applies to** to choose which product pages show your bundle.
 
-## Step 1: Open Applies to
+## Applies to
 
-Open the bundle's **Offer** tab and find **Applies to**.
+Open the bundle's **Offer** tab. Under **Applies to (1)**, choose one option:
 
-## Step 2: Choose a scope
+- **All products:** show the offer across your products.
+- **Collections:** show the offer on products in the collections you select.
+- **Specific products (2):** show the offer on individual products you select.
 
-- **All products:** target all products.
-- **Collections:** select the collections you want to target.
-- **Specific products:** select individual products.
+For **Collections**, open **Select collections**, use **Search collections** to find the collections you want, then click **Select**. For **Specific products**, select the products you want to include. To update an existing product selection, click **Change products (3)**. The button shows how many products are selected.
 
-Use the selector to add entries. Review the selected chips and remove any you do not want. Collections requires at least one selection.
+![Offer tab showing Applies to, Specific products and Change products with the selected product count.](../assets/annotated/settings-targeting.png)
 
-## Step 3: Save and check eligibility
+## Check the selected products
 
-Save the offer. Open an included product and an excluded product to confirm the intended result.
+Save your changes. Open a product included in the offer and check that the bundle appears. Also open a product outside the selection to make sure it is excluded.
 
-If another active offer targets the same product, check which offer appears. Do not assume that overlapping discounts will stack or that one targeting method always wins.
+These settings choose where the offer appears. For a mixed-product bundle, choose the products sold in the set under [Products in this bundle](../bundle-types/mixed-bundles.md).
+
+If more than one active offer includes a product, check which one appears on its page.

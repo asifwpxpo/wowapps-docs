@@ -1,19 +1,19 @@
 # Mobile Preview
 
-Check that your offer stays clear and easy to use on a narrow screen.
+Use your theme's mobile preview to see how the bundle fits on a phone screen.
 
-## Step 1: Open mobile preview
+## Open the mobile preview
 
-Open an eligible product in your theme editor and switch to its mobile preview.
+Open your store's theme editor and open a product page that shows your bundle.
 
-## Step 2: Review the content
+Switch to the mobile preview (1).
 
-Check tier titles, prices, subtitles, badges and variant controls. Look for clipped text and awkward wrapping. Try Vertical or Horizontal layout if needed.
+![Shopify theme editor in mobile preview showing Dew Hand Wash tiers and progressive rewards.](../assets/annotated/mobile-preview.png)
 
-## Step 3: Try the controls
+## Make the offer easy to read
 
-Select another tier and confirm the selected state is obvious. Use the keyboard to check focus and selection where applicable.
+Check the tier titles, prices, badges, gift labels, and variant choices. Shorten text if it gets cut off.
 
-## Step 4: Check a real device
+If the cards feel crowded, open **Design** in WowBundle and try **Vertical cards**. Adjust **Breathing space** or **Image size** as needed.
 
-Continue to cart and checkout on the devices your customers use. Include screen-reader, zoom and contrast checks in your store's accessibility review.
+Save your changes, then open the product page on your phone. Select a tier and add it to cart to check the items and prices.

@@ -1,17 +1,19 @@
 # Direct Checkout
 
-Use Skip the cart when customers should continue straight to checkout.
+Send customers straight to checkout after they add a bundle.
 
-## Step 1: Enable Skip the cart
+## Turn on Skip the cart
 
-Open the bundle's **Advanced** tab and turn on **Skip the cart**.
+1. Open your bundle and select **Advanced**.
+2. Under **Prices and cart**, turn on **Skip the cart**.
+3. Click **Save**.
 
-## Step 2: Save the change
+![Advanced tab showing the Skip the cart toggle under Prices and cart.](../assets/annotated/skip-cart-setting.png)
 
-Save and reopen the bundle to confirm the setting.
+## Try the checkout flow
 
-## Step 3: Check the purchase flow
+Open a product page that shows your bundle. Choose a tier, then click **Add to cart**.
 
-Visit a targeted product page, choose a tier and use Add to cart. Review the resulting checkout items, discount name and subtotal.
+Checkout should open with the selected bundle. Review the items, discount, and total. You do not need to place an order.
 
-Confirm shipping, tax, currency and any other checkout customizations before using this flow broadly. You can inspect the checkout summary without completing a purchase.
+To return customers to the cart first, turn off **Skip the cart** and click **Save**.

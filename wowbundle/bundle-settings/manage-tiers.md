@@ -1,23 +1,31 @@
 # Manage Tiers
 
-Use tiers to give shoppers clear choices within your offer.
+Tiers are the choices inside a bundle offer. Give each tier its own products, quantity and price.
 
-## Choose a tier type
+## Edit a tier
 
-Expand the tier and select **Volume**, **Buy X Get Y** or **Bundle**. Configure the quantity, products and discount for that type.
+Open **Offer** and expand a tier. Choose its **Tier type**, then set the products, quantity and discount.
 
-## Add or duplicate a tier
+Use a clear **Title**, such as “2 pack,” that matches the number of items. Add a **Subtitle** if customers need more detail.
 
-Click **Add tier** to create another choice. Use a tier's **Duplicate** control when you want to start from its settings. Review the new quantity and values before saving.
+## Add, duplicate or delete
 
-## Reorder your choices
+- **Add tier (4):** add another choice to the offer.
+- **Duplicate (2):** copy a tier so you can adjust its settings.
+- **Delete (3):** remove a tier from the offer.
 
-Use the reorder handle to move a tier. The handle also supports the up/down arrow keys. Check that the displayed order matches your intended offer.
+After duplicating a tier, change its title, quantity and price before saving.
 
-## Set the default selection
+## Reorder tiers
 
-Choose **Selected by default** on the tier customers should see selected first.
+Drag a tier by its reorder handle to move it. You can also focus the handle and use the **up** and **down arrow keys**. Save the new order when you finish.
 
-## Check quantity values
+## Selected by default
 
-Use whole positive quantities. Resolve validation messages before saving, then reopen the offer to confirm the values.
+Choose **Selected by default (1)** on the tier you want customers to see selected first.
+
+Opening another tier changes the editor preview. It does not change the saved default selection.
+
+![Full WowBundle editor with Selected by default, Duplicate and Delete marked in the tier header, and Add tier marked below.](../assets/annotated/settings-tiers.png)
+
+Click **Save** when you finish. Reopen the offer to check the saved choices.

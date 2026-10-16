@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Getting Started](getting-started/create-first-bundle.md)
+* [Create a Bundle](getting-started/create-first-bundle.md)
 * [FAQ](faq.md)
 
 ## Core Setup
@@ -38,6 +38,6 @@
 * [Analytics](manage/analytics.md)
 
 ## Troubleshooting
-* [My Offer Is Not Showing](troubleshooting/offer-not-showing.md)
+* [Bundle Not Showing](troubleshooting/offer-not-showing.md)
 * [Cart Prices and Missing Gifts](troubleshooting/cart-prices.md)
-* [Country and Currency Previews](troubleshooting/markets.md)
+* [Country and Currency Preview](troubleshooting/markets.md)
