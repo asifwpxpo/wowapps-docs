@@ -6,6 +6,7 @@ site:
       key: section-3
       title: WowBundles
       path: wowbundles
+      description: ""
       icon: boxes-stacked
       default: true
       children:
